@@ -373,5 +373,3 @@
 #### Actions
 
 * Download, install and enable ["Serana's Hood Fix" file](https://www.nexusmods.com/skyrimspecialedition/mods/20243?tab=files&file_id=217670&nmm=1). Choose "Realistic" option in FOMOD
-
-* [powerofthree's Papyrus Extender]()
