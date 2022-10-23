@@ -24,6 +24,11 @@
 * [Better Jumping SE]()
 * [Yes Im Sure]()
 * [Player Rotation in ShowRaceMenu]()
+* [More Informative Console]()
+* [Stay At The System Page - Updated]()
+* [Fix Note icon for SkyUI (SKSE64 plugin)]()
+* [moreHUD SE]()
+* [moreHUD Inventory Edition]()
 
 ### [SSE Engine Fixes (skse64 plugin)](https://www.nexusmods.com/skyrimspecialedition/mods/17230)
 
@@ -586,3 +591,197 @@
 #### Actions
 
 * Download, install and enable ["Pick up books simple .esp flagged as .esl" file](https://www.nexusmods.com/skyrimspecialedition/mods/2453?tab=files&file_id=186024&nmm=1)
+
+## User interface
+
+### [More Informative Console](https://www.nexusmods.com/skyrimspecialedition/mods/19250)
+
+#### Actions
+
+* Download, install and enable ["More Informative Console 1.1.0 SE" file](https://www.nexusmods.com/skyrimspecialedition/mods/19250?tab=files&file_id=301855&nmm=1)
+
+#### Requires
+
+* [Address Library for SKSE Plugins]()
+
+### [Stay At The System Page - Updated](https://www.nexusmods.com/skyrimspecialedition/mods/19832)
+
+#### Actions
+
+* Download, install and enable ["Stay At System Page" file](https://www.nexusmods.com/skyrimspecialedition/mods/19832?tab=files&file_id=126538&nmm=1)
+
+#### Requires
+
+* [Address Library for SKSE Plugins]()
+
+### [Clean Menu](https://www.nexusmods.com/skyrimspecialedition/mods/3223)
+
+#### Actions
+
+* Download, install and enable ["Clean Menu -- All in One (30 FPS)" file](https://www.nexusmods.com/skyrimspecialedition/mods/3223?tab=files&file_id=5292&nmm=1)
+
+### [Better Dialogue Controls](https://www.nexusmods.com/skyrimspecialedition/mods/1429)
+
+#### Actions
+
+* Download, install and enable ["Better Dialogue Controls v1_2" file](https://www.nexusmods.com/skyrimspecialedition/mods/1429?tab=files&file_id=11022&nmm=1)
+
+### [Better MessageBox Controls](https://www.nexusmods.com/skyrimspecialedition/mods/1428)
+
+#### Actions
+
+* Download, install and enable ["Better MessageBox Controls v1_2" file](https://www.nexusmods.com/skyrimspecialedition/mods/1428?tab=files&file_id=11023&nmm=1)
+
+### [Undiscover Skyrim SE](https://www.nexusmods.com/skyrimspecialedition/mods/21471)
+
+#### Actions
+
+* Download, install and enable ["Undiscover Skyrim SE" file](https://www.nexusmods.com/skyrimspecialedition/mods/21471?tab=files&file_id=73388&nmm=1)
+
+### [No More Night Eye Blur](https://www.nexusmods.com/skyrimspecialedition/mods/2394)
+
+#### Actions
+
+* Download, install and enable ["No More Night Eye Blur" file](https://www.nexusmods.com/skyrimspecialedition/mods/2394?tab=files&file_id=3297&nmm=1)
+
+### [Skyrim Sizes](https://www.nexusmods.com/skyrimspecialedition/mods/587)
+
+#### Actions
+
+* Download, install and enable ["Skyrim Sizes Lore 2.1" file](https://www.nexusmods.com/skyrimspecialedition/mods/587?tab=files&file_id=2631&nmm=1)
+
+### [First Person Camera Height Fix](https://www.nexusmods.com/skyrimspecialedition/mods/28091)
+
+#### Actions
+
+* Download, install and enable ["First Person Camera Height Fix" file](https://www.nexusmods.com/skyrimspecialedition/mods/28091?tab=files&file_id=103768&nmm=1)
+
+### [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604)
+
+#### Actions
+
+* Download, install and enable ["SkyUI_5_2_SE" file](https://www.nexusmods.com/skyrimspecialedition/mods/12604?tab=files&file_id=35407&nmm=1)
+
+#### Required for
+
+* [SkyUI SE - Flashing Savegames Fix]()
+* [SkyUI - Ghost Item Bug Fix]()
+* [Fix Note icon for SkyUI (SKSE64 plugin)]()
+* [Better Container Controls for SkyUI]()
+* [Wider MCM Menu for SkyUI]()
+
+### [SkyUI SE - Flashing Savegames Fix](https://www.nexusmods.com/skyrimspecialedition/mods/20406)
+
+#### Actions
+
+* Download, install and enable ["SkyUI SE - Flashing Savegames Fix" file](https://www.nexusmods.com/skyrimspecialedition/mods/20406?tab=files&file_id=68447&nmm=1)
+
+#### Requires
+
+* [SkyUI]()
+
+### [SkyUI - Ghost Item Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/49106)
+
+#### Actions
+
+* Download, install and enable ["SkyUI - Ghost Item Bug Fix" file](https://www.nexusmods.com/skyrimspecialedition/mods/49106?tab=files&file_id=232098&nmm=1)
+
+#### Requires
+
+* [SkyUI]()
+
+### [Fix Note icon for SkyUI (SKSE64 plugin)](https://www.nexusmods.com/skyrimspecialedition/mods/32561)
+
+#### Actions
+
+* Download, install and enable ["FixNotesForSkyUI Skyrim SE 1.5.97" file](https://www.nexusmods.com/skyrimspecialedition/mods/32561?tab=files&file_id=126933&nmm=1)
+
+#### Requires
+
+* [Address Library for SKSE Plugins]()
+* [SkyUI]()
+
+### [Better Container Controls for SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/25271)
+
+#### Actions
+
+* Download, install and enable ["BCC-SkyUI-v31" file](https://www.nexusmods.com/skyrimspecialedition/mods/25271?tab=files&file_id=244865&nmm=1)
+
+#### Requires
+
+* [SkyUI]()
+
+### [Wider MCM Menu for SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/22825)
+
+#### Actions
+
+* Download, install and enable ["Opt. 4 - Full-screen MCM Menu for SkyUI" file](https://www.nexusmods.com/skyrimspecialedition/mods/22825?tab=files&file_id=112007&nmm=1)
+
+#### Requires
+
+* [SkyUI]()
+
+### [A Quality World Map](https://www.nexusmods.com/skyrimspecialedition/mods/5804)
+
+#### Actions
+
+* Download, install and enable ["8.4 A Quality World Map - Classic with All Roads" file](https://www.nexusmods.com/skyrimspecialedition/mods/5804?tab=files&file_id=13017&nmm=1)
+* Download, install and enable ["A Quality World Map - Clear Map Skies" file](https://www.nexusmods.com/skyrimspecialedition/mods/5804?tab=files&file_id=13556&nmm=1)
+
+### [Map Markers Complete with DLC and OCS](https://www.nexusmods.com/skyrimspecialedition/mods/4138)
+
+#### Actions
+
+* Download, install and enable ["Map Markers Complete" file](https://www.nexusmods.com/skyrimspecialedition/mods/4138?tab=files&file_id=11312&nmm=1)
+
+### [Pastel Map Markers](https://www.nexusmods.com/skyrimspecialedition/mods/3195)
+
+#### Actions
+
+* Download, install and enable ["Pastel map markers" file](https://www.nexusmods.com/skyrimspecialedition/mods/3195?tab=files&file_id=5099&nmm=1)
+
+### [Immersive HUD - iHUD Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/12440)
+
+#### Actions
+
+* Download, install and enable ["Immersive HUD - iHUD" file](https://www.nexusmods.com/skyrimspecialedition/mods/12440?tab=files&file_id=35481&nmm=1)
+
+### [moreHUD SE](https://www.nexusmods.com/skyrimspecialedition/mods/12688)
+
+#### Actions
+
+* Download, install and enable ["moreHUD SE - Pre AE" file](https://www.nexusmods.com/skyrimspecialedition/mods/12688?tab=files&file_id=286676&nmm=1)
+
+#### Requires
+
+* [Address Library for SKSE Plugins]()
+
+### [moreHUD Inventory Edition](https://www.nexusmods.com/skyrimspecialedition/mods/18619)
+
+#### Actions
+
+* Download, install and enable ["moreHUD Inventory Edition - Pre AE" file](https://www.nexusmods.com/skyrimspecialedition/mods/18619?tab=files&file_id=260838&nmm=1)
+
+#### Requires
+
+* [Address Library for SKSE Plugins]()
+
+### [RaceMenu](https://www.nexusmods.com/skyrimspecialedition/mods/19080)
+
+#### Actions
+
+* Download, install and enable ["RaceMenu Special Edition v0-4-16" file](https://www.nexusmods.com/skyrimspecialedition/mods/19080?tab=files&file_id=163861&nmm=1)
+
+#### Required for
+
+* [RaceMenu 0.4.16 Memory Leak Hotfix (SE)]()
+
+### [RaceMenu 0.4.16 Memory Leak Hotfix (SE)](https://www.nexusmods.com/skyrimspecialedition/mods/70161)
+
+#### Actions
+
+* Download, install and enable ["RaceMenu 0.4.16 Memory Leak Hotfix (SE)" file](https://www.nexusmods.com/skyrimspecialedition/mods/70161?tab=files&file_id=293455&nmm=1)
+
+#### Requires
+
+* [RaceMenu]()
