@@ -19,6 +19,11 @@
 * [SSE Display Tweaks]()
 * [Scrambled Bugs]()
 * [powerofthree's Papyrus Extender]()
+* [Scaleform Translation Plus Plus]()
+* [Remember Lockpick Angle - Updated]()
+* [Better Jumping SE]()
+* [Yes Im Sure]()
+* [Player Rotation in ShowRaceMenu]()
 
 ### [SSE Engine Fixes (skse64 plugin)](https://www.nexusmods.com/skyrimspecialedition/mods/17230)
 
@@ -104,7 +109,7 @@
 
 #### Actions
 
-* Download, install and enable ["Unofficial Skyrim Special Edition Patch" file](https://www.nexusmods.com/skyrimspecialedition/mods/266?tab=files&file_id=209150&nmm=1)
+* Download, install and enable ["Unofficial Skyrim Special Edition Patch" file](https://www.nexusmods.com/skyrimspecialedition/mods/266?tab=files&file_id=209150&nmm=1) (version 4.2.5b)
 
 #### Required for
 
@@ -113,6 +118,8 @@
 * [Butterflies Land True]()
 * [Scrambled Bugs]()
 * [Blacksmith Forge Water Fix - Special Edition]()
+* [Cutting Room Floor - SSE]()
+* [All Thieves Guild Jobs Concurrently]()
 
 ### [Skyrim Landscape and Water Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/26138)
 
@@ -181,6 +188,8 @@
 #### Required for
 
 * [No Grass In Objects]()
+* [Uninterrupted Invisibility]()
+* [Uninterrupted Ethereal Form]()
 
 ### [No Grass In Objects](https://www.nexusmods.com/skyrimspecialedition/mods/42161)
 
@@ -334,14 +343,11 @@
 #### Actions
 
 * Download, install and enable ["Blacksmith Forge Water Fix SE - USSEP" file](https://www.nexusmods.com/skyrimspecialedition/mods/1291?tab=files&file_id=47147&nmm=1)
+* Download and install ["BFWF - Cutting Room Floor Patch" file](https://www.nexusmods.com/skyrimspecialedition/mods/1291?tab=files&file_id=27975&nmm=1), **but do not enable it**
 
 #### Requires
 
 * [Unofficial Skyrim Special Edition Patch]()
-
-#### Comments
-
-* TODO: use "Cutting Room Floor" patch when the mod is installed
 
 ### [powerofthree's Papyrus Extender](https://www.nexusmods.com/skyrimspecialedition/mods/22854)
 
@@ -373,3 +379,210 @@
 #### Actions
 
 * Download, install and enable ["Serana's Hood Fix" file](https://www.nexusmods.com/skyrimspecialedition/mods/20243?tab=files&file_id=217670&nmm=1). Choose "Realistic" option in FOMOD
+
+### [Scaleform Translation Plus Plus](https://www.nexusmods.com/skyrimspecialedition/mods/22603)
+
+#### Actions
+
+* Download, install and enable ["ScaleformTranslationPP" file](https://www.nexusmods.com/skyrimspecialedition/mods/22603?tab=files&file_id=132968&nmm=1) (version 1.4.1)
+
+#### Requires
+
+* [Address Library for SKSE Plugins]()
+
+#### Required for
+
+* [Whose Quest Is It Anyway]()
+
+### [Fuz Ro D-oh - Silent Voice](https://www.nexusmods.com/skyrimspecialedition/mods/15109)
+
+#### Actions
+
+* Download, install and enable ["Fuz Ro D'oh" file](https://www.nexusmods.com/skyrimspecialedition/mods/15109?tab=files&file_id=114169&nmm=1) (version 1.7)
+
+## Improvements
+
+### [Cutting Room Floor - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/276)
+
+#### Actions
+
+* Download, install and enable ["Cutting Room Floor" file](https://www.nexusmods.com/skyrimspecialedition/mods/276?tab=files&file_id=245427&nmm=1)
+* Place "BFWF - Cutting Room Floor Patch" mod/file after "Cutting Room Floor" and enable it
+
+#### Requires
+
+* [Unofficial Skyrim Special Edition Patch]()
+
+### [Armor and Clothing Extension](https://www.nexusmods.com/skyrimspecialedition/mods/19002)
+
+#### Actions
+
+* Download, install and enable ["Armor and Clothing Extension" file](https://www.nexusmods.com/skyrimspecialedition/mods/19002?tab=files&file_id=296346&nmm=1)
+
+#### Requires
+
+* [Weapons Armor Clothing and Clutter Fixes]()
+
+#### Comments
+
+* Has SPID patch
+
+### [Lock Related Loot](https://www.nexusmods.com/skyrimspecialedition/mods/11342)
+
+#### Actions
+
+* Download, install and enable ["Lock Related Loot" file](https://www.nexusmods.com/skyrimspecialedition/mods/11342?tab=files&file_id=32126&nmm=1)
+
+### [Remember Lockpick Angle - Updated](https://www.nexusmods.com/skyrimspecialedition/mods/26838)
+
+#### Actions
+
+* Download, install and enable ["Remember Lockpick Angle" file](https://www.nexusmods.com/skyrimspecialedition/mods/26838?tab=files&file_id=253008&nmm=1)
+
+#### Requires
+
+* [Address Library for SKSE Plugins]()
+
+### [Better Jumping SE](https://www.nexusmods.com/skyrimspecialedition/mods/18967)
+
+#### Actions
+
+* Download, install and enable ["Better Jumping SE" file](https://www.nexusmods.com/skyrimspecialedition/mods/18967?tab=files&file_id=302309&nmm=1)
+
+#### Requires
+
+* [Address Library for SKSE Plugins]()
+
+### [Uninterrupted Invisibility](https://www.nexusmods.com/skyrimspecialedition/mods/21729)
+
+#### Actions
+
+* Download, install and enable ["Uninterrupted Invisibility v2" file](https://www.nexusmods.com/skyrimspecialedition/mods/21729?tab=files&file_id=121907&nmm=1)
+
+#### Requires
+
+* [.NET Script Framework]()
+
+### [Uninterrupted Ethereal Form](https://www.nexusmods.com/skyrimspecialedition/mods/21765)
+
+#### Actions
+
+* Download, install and enable ["Uninterrupted Ethereal Form v2" file](https://www.nexusmods.com/skyrimspecialedition/mods/21765?tab=files&file_id=121905&nmm=1)
+
+#### Requires
+
+* [.NET Script Framework]()
+
+### [Yes Im Sure](https://www.nexusmods.com/skyrimspecialedition/mods/24898)
+
+#### Actions
+
+* Download, install and enable ["YesImSure" file](https://www.nexusmods.com/skyrimspecialedition/mods/24898?tab=files&file_id=126540&nmm=1) (version 1.5.0)
+
+#### Requires
+
+* [Address Library for SKSE Plugins]()
+
+### [Player Rotation in ShowRaceMenu](https://www.nexusmods.com/skyrimspecialedition/mods/36095)
+
+#### Actions
+
+* Download, install and enable ["Player Rotation in ShowRaceMenu v1.0.0 for SkyrimSE" file](https://www.nexusmods.com/skyrimspecialedition/mods/36095?tab=files&file_id=140440&nmm=1)
+
+#### Requires
+
+* [Address Library for SKSE Plugins]()
+
+### [To Your Face SE - AE - VR](https://www.nexusmods.com/skyrimspecialedition/mods/24720)
+
+#### Actions
+
+* Download, install and enable ["To Your Face SE" file](https://www.nexusmods.com/skyrimspecialedition/mods/24720?tab=files&file_id=114688&nmm=1)
+
+### [Reusable Corpses for Necromancy - No Ash Piles](https://www.nexusmods.com/skyrimspecialedition/mods/26414)
+
+#### Actions
+
+* Download, install and enable ["Reusable Corpses for Necromancy" file](https://www.nexusmods.com/skyrimspecialedition/mods/26414?tab=files&file_id=134847&nmm=1)
+
+### [Ash Pile Expiration - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/5710?tab=files&file_id=12752&nmm=1)
+
+#### Actions
+
+* Download, install and enable ["Ash Pile Expiration SE Installer" file](https://www.nexusmods.com/skyrimspecialedition/mods/5710?tab=files&file_id=12752&nmm=1). Choose the following in FOMOD:
+  * "Time Interval Plugin" section:
+    * Choose "1 hour" option
+  * "BAS or Loose Script" section:
+    * Choose "BSA Archive" option
+
+### [Whose Quest Is It Anyway](https://www.nexusmods.com/skyrimspecialedition/mods/23581)
+
+#### Actions
+
+* Download, install and enable ["Whose Quest Is It Anyway" file](https://www.nexusmods.com/skyrimspecialedition/mods/23581?tab=files&file_id=126539&nmm=1) (version 1.3.0)
+
+#### Requires
+
+* [Scaleform Translation Plus Plus]()
+
+### [Unlimited Wood Chopping and Increased Amount](https://www.nexusmods.com/skyrimspecialedition/mods/3336)
+
+#### Actions
+
+* Download, install and enable ["Unlimited Wood Chopping - Installer" file](https://www.nexusmods.com/skyrimspecialedition/mods/3336?tab=files&file_id=47414&nmm=1). Choose the following in FOMOD:
+  * "Core Files" section:
+    * Choose "Default Amount (Two)" option
+
+### [All Thieves Guild Jobs Concurrently](https://www.nexusmods.com/skyrimspecialedition/mods/14883)
+
+#### Actions
+
+* Download, install and enable ["All Thieves Guild Jobs Concurrently - USSEP Version" file](https://www.nexusmods.com/skyrimspecialedition/mods/14883?tab=files&file_id=44724&nmm=1)
+
+#### Requires
+
+* [Unofficial Skyrim Special Edition Patch]()
+
+### [No Thieves Guild Grind](https://www.nexusmods.com/skyrimspecialedition/mods/4382)
+
+#### Actions
+
+* Download, install and enable ["No TG Grind" file](https://www.nexusmods.com/skyrimspecialedition/mods/4382?tab=files&file_id=8343&nmm=1)
+
+### [Follower Trap Safety](https://www.nexusmods.com/skyrimspecialedition/mods/2755)
+
+#### Actions
+
+* Download, install and enable ["Follower Trap Safety" file](https://www.nexusmods.com/skyrimspecialedition/mods/2755?tab=files&file_id=245105&nmm=1)
+
+### [Improved Traps](https://www.nexusmods.com/skyrimspecialedition/mods/17592)
+
+#### Actions
+
+* Download, install and enable ["Improved Traps" file](https://www.nexusmods.com/skyrimspecialedition/mods/17592?tab=files&file_id=262981&nmm=1)
+* Download, install and enable ["Mining Makes Noise" file](https://www.nexusmods.com/skyrimspecialedition/mods/17592?tab=files&file_id=55741&nmm=1)
+* Download, install and enable ["Improved Traps - Follower Safety Patch" file](https://www.nexusmods.com/skyrimspecialedition/mods/17592?tab=files&file_id=55747&nmm=1)
+
+### [Civil War intro scenes run only once](https://www.nexusmods.com/skyrimspecialedition/mods/22028)
+
+#### Actions
+
+* Download, install and enable ["Intro Scenes Only Once" file](https://www.nexusmods.com/skyrimspecialedition/mods/22028?tab=files&file_id=75783&nmm=1)
+
+### [Real Daedric Artifacts](https://www.nexusmods.com/skyrimspecialedition/mods/3626)
+
+#### Actions
+
+* Download, install and enable ["Real Daedric Artifacts" file](https://www.nexusmods.com/skyrimspecialedition/mods/3626?tab=files&file_id=6475&nmm=1)
+
+### [DFTA Dawnbreaker - forceless Dawnbreaker explosion](https://www.nexusmods.com/skyrimspecialedition/mods/17518)
+
+#### Actions
+
+* Download, install and enable ["DFTA - Forceless Dawnbreaker Explosion By ColonelCorn 1.1" file](https://www.nexusmods.com/skyrimspecialedition/mods/17518?tab=files&file_id=208948&nmm=1)
+
+### [Pick up books simple - With weightless books option](link-to-mode-on-nexus)
+
+#### Actions
+
+* Download, install and enable ["Pick up books simple .esp flagged as .esl" file](https://www.nexusmods.com/skyrimspecialedition/mods/2453?tab=files&file_id=186024&nmm=1)
