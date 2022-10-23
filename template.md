@@ -1,23 +1,21 @@
 # Mod template
 
-## [Mod name](link-to-mode-on-nexus)
+## Category name
 
-### Category
+### [Mod name](link-to-mode-on-nexus)
 
-Category
-
-### Actions
+#### Actions
 
 * Download, install and enable ["file name" file]()
 
-### Requires
+#### Requires
 
 * Mod name
 
-### Required for
+#### Required for
 
 * Mod name
 
-### Comments
+#### Comments
 
 * Comment
