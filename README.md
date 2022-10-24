@@ -29,6 +29,7 @@
 * [Fix Note icon for SkyUI (SKSE64 plugin)]()
 * [moreHUD SE]()
 * [moreHUD Inventory Edition]()
+* [I'm Walkin' Here]()
 
 ### [SSE Engine Fixes (skse64 plugin)](https://www.nexusmods.com/skyrimspecialedition/mods/17230)
 
@@ -591,6 +592,22 @@
 #### Actions
 
 * Download, install and enable ["Pick up books simple .esp flagged as .esl" file](https://www.nexusmods.com/skyrimspecialedition/mods/2453?tab=files&file_id=186024&nmm=1)
+
+### [Run For Your Lives](https://www.nexusmods.com/skyrimspecialedition/mods/2272)
+
+#### Actions
+
+* Download, install and enable ["Run For Your Lives" file](https://www.nexusmods.com/skyrimspecialedition/mods/2272?tab=files&file_id=134389&nmm=1)
+
+### [I'm Walkin' Here](https://www.nexusmods.com/skyrimspecialedition/mods/27742)
+
+#### Actions
+
+* Download, install and enable ["I'm Walkin' Here" file](https://www.nexusmods.com/skyrimspecialedition/mods/27742?tab=files&file_id=146585&nmm=1) (version 1.5.0)
+
+#### Requires
+
+* [Address Library for SKSE Plugins]()
 
 ## User interface
 
