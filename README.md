@@ -20,6 +20,7 @@
 * [Scrambled Bugs]()
 * [powerofthree's Papyrus Extender]()
 * [Scaleform Translation Plus Plus]()
+* [PapyrusUtil SE - Modders Scripting Utility Functions]()
 * [Remember Lockpick Angle - Updated]()
 * [Better Jumping SE]()
 * [Yes Im Sure]()
@@ -30,6 +31,7 @@
 * [moreHUD SE]()
 * [moreHUD Inventory Edition]()
 * [I'm Walkin' Here]()
+* [Thaumaturgy - An Enchanting Overhaul]()
 
 ### [SSE Engine Fixes (skse64 plugin)](https://www.nexusmods.com/skyrimspecialedition/mods/17230)
 
@@ -126,6 +128,8 @@
 * [Blacksmith Forge Water Fix - Special Edition]()
 * [Cutting Room Floor - SSE]()
 * [All Thieves Guild Jobs Concurrently]()
+* [Trade and Barter]()
+* [Harvest Overhaul Redone]()
 
 ### [Skyrim Landscape and Water Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/26138)
 
@@ -235,6 +239,10 @@
       * Check "Majestic Mountains", "SMIM" and "Water for ENB" options
 * Download, install and enable ["farmhouse05.nif updated - no parallax version" file](https://www.nexusmods.com/skyrimspecialedition/mods/53957?tab=files&file_id=310333&nmm=1)
 
+#### Comments
+
+* Until SMIM is installed, some object may have a pink/violet color (like wind mill in Solitude)
+
 ### [Skyrim Fixes Collection](https://www.nexusmods.com/skyrimspecialedition/mods/38314)
 
 #### Actions
@@ -252,6 +260,12 @@
 #### Requires
 
 * [Address Library for SKSE Plugins]()
+
+### [Guard Dialogue Overhaul SE](https://www.nexusmods.com/skyrimspecialedition/mods/22075)
+
+#### Actions
+
+* Download, install and enable ["Guard Dialogue Overhaul SE" file](https://www.nexusmods.com/skyrimspecialedition/mods/22075?tab=files&file_id=249890&nmm=1)
 
 ### [Weapons Armor Clothing and Clutter Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/18994)
 
@@ -402,6 +416,20 @@
 
 ### [Fuz Ro D-oh - Silent Voice](https://www.nexusmods.com/skyrimspecialedition/mods/15109)
 
+### [PapyrusUtil SE - Modders Scripting Utility Functions](https://www.nexusmods.com/skyrimspecialedition/mods/13048)
+
+#### Actions
+
+* Download, install and enable ["PapyrusUtil SE - Scripting Utility Functions" file](https://www.nexusmods.com/skyrimspecialedition/mods/13048?tab=files&file_id=122686&nmm=1) (version 3.9)
+
+#### Requires
+
+* [Address Library for SKSE Plugins]()
+
+#### Required for
+
+* [Acquisitive Soul Gems Multithreaded]()
+
 #### Actions
 
 * Download, install and enable ["Fuz Ro D'oh" file](https://www.nexusmods.com/skyrimspecialedition/mods/15109?tab=files&file_id=114169&nmm=1) (version 1.7)
@@ -505,12 +533,6 @@
 
 * Download, install and enable ["To Your Face SE" file](https://www.nexusmods.com/skyrimspecialedition/mods/24720?tab=files&file_id=114688&nmm=1)
 
-### [Reusable Corpses for Necromancy - No Ash Piles](https://www.nexusmods.com/skyrimspecialedition/mods/26414)
-
-#### Actions
-
-* Download, install and enable ["Reusable Corpses for Necromancy" file](https://www.nexusmods.com/skyrimspecialedition/mods/26414?tab=files&file_id=134847&nmm=1)
-
 ### [Ash Pile Expiration - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/5710?tab=files&file_id=12752&nmm=1)
 
 #### Actions
@@ -608,6 +630,25 @@
 #### Requires
 
 * [Address Library for SKSE Plugins]()
+
+### [Harvest Overhaul Redone](https://www.nexusmods.com/skyrimspecialedition/mods/2398)
+
+#### Actions
+
+* Download, install and enable ["HarvestOverhaul_Redone_AIO_Installer" file](https://www.nexusmods.com/skyrimspecialedition/mods/2398?tab=files&file_id=230540&nmm=1). Choose the following in FOMOD:
+  * "Main File / Optional File Selection" page:
+    * "Main File" section:
+      * Check "Creatures Module" option
+    * "Optional" section:
+      * Choose "None" option
+  * "Flora Respawn Fix" page:
+    * Do not check "Flora Respawn Fix Compatibility" option
+  * Patches" page:
+    * Leave everything unchecked
+
+#### Requires
+
+* [Unofficial Skyrim Special Edition Patch]()
 
 ## User interface
 
@@ -802,3 +843,253 @@
 #### Requires
 
 * [RaceMenu]()
+
+## Gameplay
+
+### [Skyrim Skill Uncapper](https://www.nexusmods.com/skyrimspecialedition/mods/8889)
+
+#### Actions
+
+* Download, install and enable ["Skyrim Skill Uncapper" file](https://www.nexusmods.com/skyrimspecialedition/mods/8889?tab=files&file_id=35541&nmm=1)
+* Run the game a quit. It will create the `*.ini` file, that can be modified if needed
+* Make the following changes in `SKSE/Plugins/SkyrimUncapper.ini` file:
+  * Under `CarryWeightAtStaminaLevelUp` option set `1 = 1`
+
+### [Wild World SE](https://www.nexusmods.com/skyrimspecialedition/mods/14616)
+
+#### Actions
+
+* Download, install and enable ["Wild World" file](https://www.nexusmods.com/skyrimspecialedition/mods/14616?tab=files&file_id=154732&nmm=1)
+
+#### Comments
+
+* Includes "No Animals Report Crimes"
+
+### [Mortal Enemies SE](https://www.nexusmods.com/skyrimspecialedition/mods/4881)
+
+#### Actions
+
+* Download, install and enable ["Mortal Enemies SE" file](https://www.nexusmods.com/skyrimspecialedition/mods/4881?tab=files&file_id=11006&nmm=1)
+
+### [Wildcat - Combat of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1368)
+
+#### Actions
+
+* Download, install and enable ["Wildcat v700" file](https://www.nexusmods.com/skyrimspecialedition/mods/1368?tab=files&file_id=34066&nmm=1)
+
+#### Comments
+
+* Includes "Modern Brawl Bug Fix"
+
+### [Trade and Barter](https://www.nexusmods.com/skyrimspecialedition/mods/23081)
+
+#### Actions
+
+* Download, install and enable ["Trade and Barter SE" file](https://www.nexusmods.com/skyrimspecialedition/mods/23081?tab=files&file_id=80352&nmm=1)
+
+#### Requires
+
+* [Unofficial Skyrim Special Edition Patch]()
+
+#### Comments
+
+* Should come before [Adamant - A Perk Overhaul]()
+
+### [Aetherius - A Race Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26686)
+
+#### Actions
+
+* Download, install and enable ["Aetherius - A Race Overhaul" file](https://www.nexusmods.com/skyrimspecialedition/mods/26686?tab=files&file_id=289851&nmm=1)
+
+### [Mundus - A Standing Stone Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/33411)
+
+#### Actions
+
+* Download, install and enable ["Mundus - A Standing Stone Overhaul" file](https://www.nexusmods.com/skyrimspecialedition/mods/33411?tab=files&file_id=289850&nmm=1)
+* Download, install and enable ["Mundus - USSEP Tower Stone Patch" file](https://www.nexusmods.com/skyrimspecialedition/mods/33411?tab=files&file_id=291279&nmm=1)
+
+#### Comments
+
+* Includes "Modern Brawl Bug Fix"
+
+### [Mysticism - A Magic Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/27839)
+
+#### Actions
+
+* Download, install and enable ["Mysticism - A Magic Overhaul" file](https://www.nexusmods.com/skyrimspecialedition/mods/27839?tab=files&file_id=323528&nmm=1)
+
+#### Required for
+
+* [Adamant - A Perk Overhaul]()
+
+### [Adamant - A Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30191)
+
+#### Actions
+
+* Download, install and enable ["Adamant - A Perk Overhaul" file](https://www.nexusmods.com/skyrimspecialedition/mods/30191?tab=files&file_id=323527&nmm=1)
+* Download, install and enable ["Adamant - Talos Tweaks" file](https://www.nexusmods.com/skyrimspecialedition/mods/30191?tab=files&file_id=211257&nmm=1)
+
+#### Requires
+
+* [Mysticism - A Magic Overhaul]()
+
+### [Arena - An Encounter Zone Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/33487)
+
+#### Actions
+
+* Download, install and enable ["Arena - An Encounter Zone Overhaul" file](https://www.nexusmods.com/skyrimspecialedition/mods/33487?tab=files&file_id=184575&nmm=1)
+
+### [Thaumaturgy - An Enchanting Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/57138)
+
+#### Actions
+
+* Download, install and enable ["Thaumaturgy - An Enchanting Overhaul" file](https://www.nexusmods.com/skyrimspecialedition/mods/57138?tab=files&file_id=291896&nmm=1)
+* Download, install and enable ["Thaumaturgy - Weapon Enchantment XP Tweak" file](https://www.nexusmods.com/skyrimspecialedition/mods/57138?tab=files&file_id=319756&nmm=1)
+
+#### Requires
+
+* [Address Library for SKSE Plugins]() (needed for "Weapon Enchantment XP Tweak" file)
+
+### [Manbeast - A Werewolf Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/44746)
+
+#### Actions
+
+* Download, install and enable ["Manbeast - A Werewolf Overhaul" file](https://www.nexusmods.com/skyrimspecialedition/mods/44746?tab=files&file_id=248514&nmm=1)
+
+#### Comments
+
+* Should come after [Mortal Enemies]()
+
+### [Sacrosanct - Vampires of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/3928)
+
+#### Actions
+
+* Download, install and enable ["Sacrosanct 5.17.0" file](https://www.nexusmods.com/skyrimspecialedition/mods/3928?tab=files&file_id=173876&nmm=1)
+
+### [Immersive World Encounters. FINAL SE](https://www.nexusmods.com/skyrimspecialedition/mods/18330)
+
+#### Actions
+
+* Download, install and enable ["Immersive World Encounters SE" file](ition/mods/18330?tab=files&file_id=249072&nmm=1). Do not check anything in FOMOD
+
+#### Comments
+
+* Enable the patch when [Open Cities]() mod is installed
+
+### [Ars Metallica - Smithing Enhancement](https://www.nexusmods.com/skyrimspecialedition/mods/321)
+
+#### Actions
+
+* Download, install and enable ["Ars Metallica - Smithing Enhancement" file](https://www.nexusmods.com/skyrimspecialedition/mods/321?tab=files&file_id=148798&nmm=1)
+
+### [Crime Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/19647)
+
+#### Actions
+
+* Download, install and enable ["Crime Overhaul" file](https://www.nexusmods.com/skyrimspecialedition/mods/19647?tab=files&file_id=64509&nmm=1)
+
+#### Required for
+
+* [Crime Overhaul Fixes]()
+
+### [Crime Overhaul Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/35853)
+
+#### Actions
+
+* Download, install and enable ["Crime Overhaul Fixes" file](https://www.nexusmods.com/skyrimspecialedition/mods/35853?tab=files&file_id=267647&nmm=1)
+* Download, install and enable ["Crime Overhaul - Cutting Room Floor Patch" file](https://www.nexusmods.com/skyrimspecialedition/mods/35853?tab=files&file_id=222097&nmm=1)
+
+#### Requires
+
+* [Crime Overhaul]()
+
+### [NARC Remade - No Animals Report Crimes for Skyrim SE](https://www.nexusmods.com/skyrimspecialedition/mods/17946)
+
+#### Actions
+
+* Download, install and enable ["NARC Remade 1.1.0" file](https://www.nexusmods.com/skyrimspecialedition/mods/17946?tab=files&file_id=324436&nmm=1). Choose the following in FOMOD:
+  * "Select core file" page:
+    * Choose "NARC" option
+  * "Select patches" page:
+    * Make sure nothing is checked
+
+### [Mum's the Word](https://www.nexusmods.com/skyrimspecialedition/mods/27713)
+
+#### Actions
+
+* Download, install and enable ["Mum's the Word" file](https://www.nexusmods.com/skyrimspecialedition/mods/27713?tab=files&file_id=115787&nmm=1)
+
+### [Crime Bounty Decay SE](https://www.nexusmods.com/skyrimspecialedition/mods/25457)
+
+#### Actions
+
+* Download, install and enable ["Crime Bounty Decay SE" file](https://www.nexusmods.com/skyrimspecialedition/mods/25457?tab=files&file_id=105363&nmm=1)
+
+### [Improved College Entry - Questline Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/22184)
+
+#### Actions
+
+* Download, install and enable ["Improved College Entry" file](https://www.nexusmods.com/skyrimspecialedition/mods/22184?tab=files&file_id=165417&nmm=1)
+
+#### Comments
+
+* Should come after [Weapons Armor Clothing and Clutter Fixes]()
+
+### [Relationship Dialogue Overhaul - RDO SE](https://www.nexusmods.com/skyrimspecialedition/mods/1187)
+
+#### Actions
+
+* Download, install and enable ["Relationship Dialogue Overhaul - RDO Final" file](https://www.nexusmods.com/skyrimspecialedition/mods/1187?tab=files&file_id=1171&nmm=1)
+* Download, install and enable ["RDO - CRF and USSEP Patches Final" file](https://www.nexusmods.com/skyrimspecialedition/mods/1187). Hide `RDO - USSEP Patch.esp` file
+
+#### Required for
+
+* [Relationship Dialogue Overhaul - Update and MCM]()
+
+### [Relationship Dialogue Overhaul - Update and MCM](https://www.nexusmods.com/skyrimspecialedition/mods/44601)
+
+#### Actions
+
+* Download, install and enable ["Relationship Dialogue Overhaul - Update and MCM 1.0.5" file](https://www.nexusmods.com/skyrimspecialedition/mods/44601?tab=files&file_id=237381&nmm=1)
+
+#### Requires
+
+* [Relationship Dialogue Overhaul - RDO SE]()
+
+### [Serana Dialogue Edit - Skyrim Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/16222)
+
+#### Actions
+
+* Download, install and enable ["SeranaDialogEdit v 102" file](https://www.nexusmods.com/skyrimspecialedition/mods/16222?tab=files&file_id=59083&nmm=1)
+
+#### Requires
+
+* [Unofficial Skyrim Special Edition Patch]()
+
+### [Realistic Capacity](https://www.nexusmods.com/skyrimspecialedition/mods/17577)
+
+#### Actions
+
+* Download, install and enable ["Realistic Capacity 1.0 SSE" file](https://www.nexusmods.com/skyrimspecialedition/mods/17577?tab=files&file_id=55698&nmm=1)
+
+### [Vampire Sun Damage Clothes Covering](https://www.nexusmods.com/skyrimspecialedition/mods/3869)
+
+#### Actions
+
+* Download, install and enable ["Vampire Sun Damage Clothes Covering Mod" file](https://www.nexusmods.com/skyrimspecialedition/mods/3869?tab=files&file_id=6812&nmm=1)
+
+### [Acquisitive Soul Gems Multithreaded](https://www.nexusmods.com/skyrimspecialedition/mods/1469)
+
+#### Actions
+
+* Download, install and enable ["Acquisitive Soul Gems Multithreaded" file](https://www.nexusmods.com/skyrimspecialedition/mods/1469?tab=files&file_id=315456&nmm=1)
+
+#### Requires
+
+* [PapyrusUtil SE - Modders Scripting Utility Functions]()
+
+### [Quick Light SE](https://www.nexusmods.com/skyrimspecialedition/mods/12633)
+
+#### Actions
+
+* Download, install and enable ["Quick Light SE" file](https://www.nexusmods.com/skyrimspecialedition/mods/12633?tab=files&file_id=115255&nmm=1)
