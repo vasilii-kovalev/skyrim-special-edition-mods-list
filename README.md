@@ -1096,42 +1096,11 @@
 
 ## Exteriors and interiors
 
-### [JK's Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/6289)
-
-#### Actions
-
-* Download, install and enable ["JK's Skyrim all in one" file](https://www.nexusmods.com/skyrimspecialedition/mods/6289?tab=files&file_id=189705&nmm=1)
-* Download, install and enable ["JK's Skyrim - Towns" file](https://www.nexusmods.com/skyrimspecialedition/mods/9005?tab=files&file_id=150076&nmm=1) from [Landscape Fixes For Grass Mods]() mod files
-* Download, install and enable ["JK's Skyrim - Arthmoor's Patch Pack" file](https://www.nexusmods.com/skyrimspecialedition/mods/6289?tab=files&file_id=82652&nmm=1). Choose the following in FOMOD:
-  * "Step 1 - Choose Merged Patches or Individual Patches" page:
-    * Choose "Individual Patches" option
-  * "Step 2 - Choose your Patches" page:
-    * Check "Cutting Room Floor Patch" option. Make sure other options are unchecked
-
-### [Skyrim Reborn - Whiterun Hold](https://www.nexusmods.com/skyrimspecialedition/mods/16530)
-
-#### Actions
-
-* Download, install and enable ["Skyrim Reborn - Whiterun Hold 1.1.7" file](https://www.nexusmods.com/skyrimspecialedition/mods/16530?tab=files&file_id=320724&nmm=1)
-
-### [Skyrim Reborn - Hjaalmarch Hold](https://www.nexusmods.com/skyrimspecialedition/mods/23801)
-
-#### Actions
-
-* Download, install and enable ["Skyrim Reborn - Hjaalmarch Hold 1.1.4" file](https://www.nexusmods.com/skyrimspecialedition/mods/23801?tab=files&file_id=324068&nmm=1)
-* Download, install and enable ["Skyrim Reborn Hjaalmarch Hold - CRF Patch" file](https://www.nexusmods.com/skyrimspecialedition/mods/23801?tab=files&file_id=149698&nmm=1)
-
 ### [Settlements Expanded](https://www.nexusmods.com/skyrimspecialedition/mods/7777)
 
 #### Actions
 
 * Download, install and enable ["Settlements Expanded SE" file](https://www.nexusmods.com/skyrimspecialedition/mods/7777?tab=files&file_id=77110&nmm=1)
-
-### [Tactical Valtheim](https://www.nexusmods.com/skyrimspecialedition/mods/9101)
-
-#### Actions
-
-* Download, install and enable ["Tactical Valtheim Installer" file](https://www.nexusmods.com/skyrimspecialedition/mods/9101?tab=files&file_id=258975&nmm=1). Choose nothing in FOMOD.
 
 ### [Quaint Raven Rock - SE](https://www.nexusmods.com/skyrimspecialedition/mods/20851)
 
@@ -1168,16 +1137,6 @@
 
 * Download, install and enable ["Unique Border Gates All" file](https://www.nexusmods.com/skyrimspecialedition/mods/4819?tab=files&file_id=16243&nmm=1)
 
-### [Skyrim Better Roads (SkyBeRoads)](https://www.nexusmods.com/skyrimspecialedition/mods/2640)
-
-#### Actions
-
-* Download, install and enable ["Skyrim Better Roads SE (FOMOD Installer)" file](https://www.nexusmods.com/skyrimspecialedition/mods/2640?tab=files&file_id=8714&nmm=1). In FOMOD choose "2. All the Roads" option
-* Download, install and enable ["Skyrim Better Roads SE - Eastmarch Module" file](https://www.nexusmods.com/skyrimspecialedition/mods/2640?tab=files&file_id=20457&nmm=1)
-* Download, install and enable ["Skyrim Better Roads SE - The Rift Module" file](https://www.nexusmods.com/skyrimspecialedition/mods/2640?tab=files&file_id=8766&nmm=1)
-* Download, install and enable ["Skyrim Better Roads SE - Winterhold Module" file](https://www.nexusmods.com/skyrimspecialedition/mods/2640?tab=files&file_id=21100&nmm=1)
-* Download, install and enable ["Settlements Expanded SE - Skyrim Better Roads Patch" file](https://www.nexusmods.com/skyrimspecialedition/mods/7777?tab=files&file_id=19334&nmm=1) from [Settlements Expanded]() mod files
-
 ### [Convenient Bridges BETA - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/2715)
 
 #### Actions
@@ -1199,12 +1158,6 @@
 
 * [Convenient Bridges BETA - Special Edition]()
 
-### [Northern Marsh Bridges](https://www.nexusmods.com/skyrimspecialedition/mods/9107)
-
-#### Actions
-
-* Download, install and enable ["Northern Marsh Bridges SE" file](https://www.nexusmods.com/skyrimspecialedition/mods/9107?tab=files&file_id=88726&nmm=1)
-
 ### [Lanterns Of Skyrim II](https://www.nexusmods.com/skyrimspecialedition/mods/30817)
 
 #### Actions
@@ -1218,8 +1171,6 @@
   * "Patches (A)" page:
     * Check the following patches (and uncheck the rest):
       * "LoS II - Convenient Bridges -Beta- patch"
-      * "LoS II - JK's Skyrim patch"
-      * "LoS II - Nothern March Bridges patch"
   * "Patches (B)" page:
     * Check the following patches (and uncheck the rest):
       * "LoS II - Cutting Room Floor patch"
@@ -1229,252 +1180,6 @@
   Arrange the patches in the order the mods go
 * Put "Lanterns Of Skyrim II.esm" below the lowest ESP-ESL file (bold italic)
 
-### [JK's Arnleif and Sons Trading Company](https://www.nexusmods.com/skyrimspecialedition/mods/54166)
-
-#### Actions
-
-* Download, install and enable ["JK's Arnleif and Sons Trading Company" file](https://www.nexusmods.com/skyrimspecialedition/mods/54166?tab=files&file_id=294543&nmm=1)
-
-### [JK's Silver-Blood Inn](https://www.nexusmods.com/skyrimspecialedition/mods/53554)
-
-#### Actions
-
-* Download, install and enable ["JK's Silver-Blood Inn" file](https://www.nexusmods.com/skyrimspecialedition/mods/53554?tab=files&file_id=220744&nmm=1)
-
-### [JK's Temple of Dibella](https://www.nexusmods.com/skyrimspecialedition/mods/56371)
-
-#### Actions
-
-* Download, install and enable ["JK's Temple of Dibella" file](https://www.nexusmods.com/skyrimspecialedition/mods/56371?tab=files&file_id=232671&nmm=1)
-
-### [JK's The Hag's Cure](https://www.nexusmods.com/skyrimspecialedition/mods/54587)
-
-#### Actions
-
-* Download, install and enable ["JK's The Hag's Cure" file](https://www.nexusmods.com/skyrimspecialedition/mods/54587?tab=files&file_id=224041&nmm=1)
-
-### [JK's Understone Keep](https://www.nexusmods.com/skyrimspecialedition/mods/55571)
-
-#### Actions
-
-* Download, install and enable ["JK's Understone Keep" file](https://www.nexusmods.com/skyrimspecialedition/mods/55571?tab=files&file_id=265796&nmm=1)
-
-### [JK's Elgrim's Elixirs](https://www.nexusmods.com/skyrimspecialedition/mods/49934)
-
-#### Actions
-
-* Download, install and enable ["JK's Elgrims Elixirs" file](https://www.nexusmods.com/skyrimspecialedition/mods/49934?tab=files&file_id=203549&nmm=1)
-
-### [JK's Haelga's Bunkhouse](https://www.nexusmods.com/skyrimspecialedition/mods/60085)
-
-#### Actions
-
-* Download, install and enable ["JK's Haelga's Bunkhouse" file](https://www.nexusmods.com/skyrimspecialedition/mods/60085?tab=files&file_id=265790&nmm=1)
-
-### [JK's Mistveil Keep](https://www.nexusmods.com/skyrimspecialedition/mods/52462)
-
-#### Actions
-
-* Download, install and enable ["JK's Mistveil Keep" file](https://www.nexusmods.com/skyrimspecialedition/mods/52462?tab=files&file_id=229295&nmm=1)
-
-### [JK's The Bee and Barb](https://www.nexusmods.com/skyrimspecialedition/mods/49516)
-
-#### Actions
-
-* Download, install and enable ["JK's The Bee and Barb" file](https://www.nexusmods.com/skyrimspecialedition/mods/49516?tab=files&file_id=286254&nmm=1)
-
-### [JK's The Pawned Prawn](https://www.nexusmods.com/skyrimspecialedition/mods/50135)
-
-#### Actions
-
-* Download, install and enable ["JK's The Pawned Prawn" file](https://www.nexusmods.com/skyrimspecialedition/mods/50135?tab=files&file_id=207546&nmm=1)
-
-### [JK's The Ragged Flagon](https://www.nexusmods.com/skyrimspecialedition/mods/50765)
-
-#### Actions
-
-* Download, install and enable ["JK's The Ragged Flagon" file](https://www.nexusmods.com/skyrimspecialedition/mods/50765?tab=files&file_id=207199&nmm=1)
-
-### [JK's The Temple of Mara](https://www.nexusmods.com/skyrimspecialedition/mods/52724)
-
-#### Actions
-
-* Download, install and enable ["JK's The Temple of Mara" file](https://www.nexusmods.com/skyrimspecialedition/mods/52724?tab=files&file_id=326432&nmm=1)
-
-### [JK's Riverwood Trader](https://www.nexusmods.com/skyrimspecialedition/mods/55959)
-
-#### Actions
-
-* Download, install and enable ["JK's Riverwood Trader" file](https://www.nexusmods.com/skyrimspecialedition/mods/55959?tab=files&file_id=286256&nmm=1)
-
-### [JK's Sleeping Giant Inn](https://www.nexusmods.com/skyrimspecialedition/mods/35806)
-
-#### Actions
-
-* Download, install and enable ["JK's Sleeping Giant Inn" file](https://www.nexusmods.com/skyrimspecialedition/mods/35806?tab=files&file_id=203724&nmm=1)
-
-### [JK's Angeline's Aromatics](https://www.nexusmods.com/skyrimspecialedition/mods/44482)
-
-#### Actions
-
-* Download, install and enable ["Jk's Angeline's Aromatics" file](https://www.nexusmods.com/skyrimspecialedition/mods/44482?tab=files&file_id=180173&nmm=1)
-
-### [JK's Bits and Pieces](https://www.nexusmods.com/skyrimspecialedition/mods/44642)
-
-#### Actions
-
-* Download, install and enable ["JK's Bits and Pieces" file](https://www.nexusmods.com/skyrimspecialedition/mods/44642?tab=files&file_id=181168&nmm=1)
-
-### [JK's Blue Palace](https://www.nexusmods.com/skyrimspecialedition/mods/45324)
-
-#### Actions
-
-* Download, install and enable ["JK's Blue Palace" file](https://www.nexusmods.com/skyrimspecialedition/mods/45324?tab=files&file_id=296155&nmm=1)
-
-### [JK's Castle Dour](https://www.nexusmods.com/skyrimspecialedition/mods/74309)
-
-#### Actions
-
-* Download, install and enable ["JK's Castle Dour" file](https://www.nexusmods.com/skyrimspecialedition/mods/74309?tab=files&file_id=315380&nmm=1)
-
-### [JK's Radiant Raiment](https://www.nexusmods.com/skyrimspecialedition/mods/44858)
-
-#### Actions
-
-* Download, install and enable ["JK's Radiant Raiment" file](https://www.nexusmods.com/skyrimspecialedition/mods/44858?tab=files&file_id=286257&nmm=1)
-
-### [JK's Temple of the Divines](https://www.nexusmods.com/skyrimspecialedition/mods/57304)
-
-#### Actions
-
-* Download, install and enable ["JK's Temple of the Divines" file](https://www.nexusmods.com/skyrimspecialedition/mods/57304?tab=files&file_id=298247&nmm=1)
-
-### [JK's The Bards College](https://www.nexusmods.com/skyrimspecialedition/mods/71054)
-
-#### Actions
-
-* Download, install and enable ["JK's The Bards College" file](https://www.nexusmods.com/skyrimspecialedition/mods/71054?tab=files&file_id=303904&nmm=1)
-
-### [JK's The Winking Skeever](https://www.nexusmods.com/skyrimspecialedition/mods/43991)
-
-#### Actions
-
-* Download, install and enable ["Jk's The Winking Skeever" file](https://www.nexusmods.com/skyrimspecialedition/mods/43991?tab=files&file_id=244686&nmm=1)
-
-### [JK's Arcadia's Cauldron](https://www.nexusmods.com/skyrimspecialedition/mods/33565)
-
-#### Actions
-
-* Download, install and enable ["JK's Arcadia's Cauldron" file](https://www.nexusmods.com/skyrimspecialedition/mods/33565?tab=files&file_id=288019&nmm=1)
-
-### [JK's Belethor's General Goods.](https://www.nexusmods.com/skyrimspecialedition/mods/33636)
-
-#### Actions
-
-* Download, install and enable ["JK's Belethor's General Goods." file](https://www.nexusmods.com/skyrimspecialedition/mods/33636?tab=files&file_id=129163&nmm=1)
-
-### [JK's Dragonsreach](https://www.nexusmods.com/skyrimspecialedition/mods/34000)
-
-#### Actions
-
-* Download, install and enable ["JK's Dragonsreach" file](https://www.nexusmods.com/skyrimspecialedition/mods/34000?tab=files&file_id=298461&nmm=1)
-
-### [JK's Jorrvaskr](https://www.nexusmods.com/skyrimspecialedition/mods/60738)
-
-#### Actions
-
-* Download, install and enable ["JK's Jorrvaskr" file](https://www.nexusmods.com/skyrimspecialedition/mods/60738?tab=files&file_id=316462&nmm=1)
-
-### [JK's Temple of Kynareth](https://www.nexusmods.com/skyrimspecialedition/mods/56737)
-
-#### Actions
-
-* Download, install and enable ["JK's Temple of Kynareth" file](https://www.nexusmods.com/skyrimspecialedition/mods/56737?tab=files&file_id=236465&nmm=1)
-
-### [JK's The Bannered Mare.](https://www.nexusmods.com/skyrimspecialedition/mods/33845)
-
-#### Actions
-
-* Download, install and enable ["JK's The Bannered Mare" file](https://www.nexusmods.com/skyrimspecialedition/mods/33845?tab=files&file_id=237783&nmm=1)
-
-### [JK's The Drunken Huntsman.](https://www.nexusmods.com/skyrimspecialedition/mods/33783)
-
-#### Actions
-
-* Download, install and enable ["JK's The Drunken Huntsman" file](https://www.nexusmods.com/skyrimspecialedition/mods/33783?tab=files&file_id=129474&nmm=1)
-
-### [JK's Warmaiden's](https://www.nexusmods.com/skyrimspecialedition/mods/33685)
-
-#### Actions
-
-* Download, install and enable ["JK's Warmaiden's" file](https://www.nexusmods.com/skyrimspecialedition/mods/33685?tab=files&file_id=207593&nmm=1)
-
-### [JK's Candlehearth Hall](https://www.nexusmods.com/skyrimspecialedition/mods/45617)
-
-#### Actions
-
-* Download, install and enable ["JK's Candlehearth Hall" file](https://www.nexusmods.com/skyrimspecialedition/mods/45617?tab=files&file_id=185575&nmm=1)
-
-### [JK's New Gnisis Cornerclub](https://www.nexusmods.com/skyrimspecialedition/mods/48293)
-
-#### Actions
-
-* Download, install and enable ["JK's New Gnisis Cornerclub" file](https://www.nexusmods.com/skyrimspecialedition/mods/48293?tab=files&file_id=246358&nmm=1)
-
-### [JK's Palace of the Kings](https://www.nexusmods.com/skyrimspecialedition/mods/48902)
-
-#### Actions
-
-* Download, install and enable ["JK's Palace of the Kings" file](https://www.nexusmods.com/skyrimspecialedition/mods/48902?tab=files&file_id=244454&nmm=1)
-
-### [JK's Sadri's Used Wares](https://www.nexusmods.com/skyrimspecialedition/mods/47942)
-
-#### Actions
-
-* Download, install and enable ["JK's Sadris Used Wares" file](https://www.nexusmods.com/skyrimspecialedition/mods/47942?tab=files&file_id=236673&nmm=1)
-
-### [JK's Temple of Talos](https://www.nexusmods.com/skyrimspecialedition/mods/56971)
-
-#### Actions
-
-* Download, install and enable ["JK's Temple of Talos" file](https://www.nexusmods.com/skyrimspecialedition/mods/56971?tab=files&file_id=244452&nmm=1)
-
-### [JK's White Phial](https://www.nexusmods.com/skyrimspecialedition/mods/47713)
-
-#### Actions
-
-* Download, install and enable ["JK's White Phial" file](https://www.nexusmods.com/skyrimspecialedition/mods/47713?tab=files&file_id=196745&nmm=1)
-
-### [JK's College of Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/65676)
-
-#### Actions
-
-* Download, install and enable ["JK's College of Winterhold" file](https://www.nexusmods.com/skyrimspecialedition/mods/65676?tab=files&file_id=294372&nmm=1)
-
-### [JK's High Hrothgar](https://www.nexusmods.com/skyrimspecialedition/mods/62219)
-
-#### Actions
-
-* Download, install and enable ["JK's High Hrothgar" file](https://www.nexusmods.com/skyrimspecialedition/mods/62219?tab=files&file_id=265792&nmm=1)
-
-### [JK's Septimus Signus's Outpost](https://www.nexusmods.com/skyrimspecialedition/mods/66915)
-
-#### Actions
-
-* Download, install and enable ["JK's Septimus Signus's Outpost" file](https://www.nexusmods.com/skyrimspecialedition/mods/66915?tab=files&file_id=303905&nmm=1)
-
-### [JK's Sinderion's Field Laboratory](https://www.nexusmods.com/skyrimspecialedition/mods/68154)
-
-#### Actions
-
-* Download, install and enable ["JK's Sinderion's Field Laboratory" file](https://www.nexusmods.com/skyrimspecialedition/mods/68154?tab=files&file_id=286288&nmm=1)
-
-### [JK's Sky Haven Temple](https://www.nexusmods.com/skyrimspecialedition/mods/63039)
-
-#### Actions
-
-* Download, install and enable ["JK's Sky Haven Temple" file](https://www.nexusmods.com/skyrimspecialedition/mods/63039?tab=files&file_id=263365&nmm=1)
-
 ### [Blacksmith Forge Water Fix xEdit Script](https://www.nexusmods.com/skyrimspecialedition/mods/29758)
 
 #### Actions
@@ -1482,17 +1187,15 @@
 * Download, install and enable ["Water Trough Mesh" file](https://www.nexusmods.com/skyrimspecialedition/mods/29758?tab=files&file_id=151685&nmm=1)
 * Download ["xEdit Script" file](https://www.nexusmods.com/skyrimspecialedition/mods/29758?tab=files&file_id=243398) manually and extract the file from the archive to xEdit scripts folder (`<xEdit_folder>/Edit Scripts`)
 * Run xEdit and load all the mods
-* Patch [JS's Skyrim]():
-  * Click on [JS's Skyrim]() mod with the right mouse button
+* Patch [Settlements Expanded]():
+  * Click on [Settlements Expanded]() mod with the right mouse button
   * Click on the "Apply Script" menu option
   * Choose "Blacksmith Forge Water Patch" in the list and click "OK" button
-  * Give the patch a name (for example, "JS's Skyrim Blacksmith Forge Water Patch") and click "OK" button
+  * Give the patch a name (for example, "Settlements Expanded Blacksmith Forge Water Patch") and click "OK" button
   * Click "Exit xEdit" button
   * Check the created patch and click "OK" button
   * Check MO2 "Overwrite" section. Make sure only the patch file is presented. Remove other files if exist
   * Click on the section with the right mouse button
   * Click on the "Create Mod" menu option
   * Give the mod the same name as the patch have and click "OK" button
-  * Enable the mod and put it after JK's Skyrim itself and other related patches
-* Patch [Skyrim Reborn - Whiterun Hold]() the same way
-* Patch [Settlements Expanded]() the same way
+  * Enable the mod and put it after [Settlements Expanded]() itself and other related patches
