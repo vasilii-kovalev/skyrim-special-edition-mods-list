@@ -277,6 +277,10 @@
 
 * [Unofficial Skyrim Special Edition Patch]()
 
+#### Required for
+
+* [Interesting NPCs and WACCF Outfits Patch]()
+
 ### [Navigator - Navmesh Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/52641)
 
 #### Actions
@@ -1199,3 +1203,30 @@
   * Click on the "Create Mod" menu option
   * Give the mod the same name as the patch have and click "OK" button
   * Enable the mod and put it after [Settlements Expanded]() itself and other related patches
+
+## Additional NPC's
+
+### [Interesting NPCs SE (3DNPC)](https://www.nexusmods.com/skyrimspecialedition/mods/29194)
+
+#### Actions
+
+* Download, install and enable ["Interesting NPCs 3DNPC" file](https://www.nexusmods.com/skyrimspecialedition/mods/29194?tab=files&file_id=308366&nmm=1)
+* Download, install and enable ["Interesting NPCs - 4.5 to 4.53 Update" file](https://www.nexusmods.com/skyrimspecialedition/mods/29194?tab=files&file_id=316951&nmm=1)
+* Download, install and enable ["Interesting NPCs SE - Cutting Room Floor SSE Patch" file](https://www.nexusmods.com/skyrimspecialedition/mods/29194?tab=files&file_id=130592&nmm=1)
+* Put `3DNPC.esp` below the lowest ESP-ESL file (bold italic)
+* Enable and put `LoS II - 3DNPC addon.esp` after all the mod's files
+
+#### Required for
+
+* [Interesting NPCs and WACCF Outfits Patch]()
+
+### [Interesting NPCs and WACCF Outfits Patch](https://www.nexusmods.com/skyrimspecialedition/mods/31858)
+
+#### Actions
+
+* Download, install and enable ["Interesting NPCs and WACCF Outfits Patch" file](https://www.nexusmods.com/skyrimspecialedition/mods/31858?tab=files&file_id=120144&nmm=1)
+
+#### Requires
+
+* [Weapons Armor Clothing and Clutter Fixes]()
+* [Interesting NPCs SE (3DNPC)]()
