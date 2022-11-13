@@ -138,6 +138,7 @@
 * [Use Telekinesis on Traps]()
 * [Skyrim Landscape and Water Fixes]()
 * [Enhanced Lighting for ENB (ELE) - Special Edition]()
+* [Skyrim Unbound Reborn (Alternate Start)]()
 
 ### [Landscape Fixes For Grass Mods](https://www.nexusmods.com/skyrimspecialedition/mods/9005)
 
@@ -331,6 +332,7 @@
 * [Use Telekinesis on Traps]()
 * [Dynamic Things Alternative - Base Object Swapper]()
 * [Frozen Electrocuted Combustion [FEC]]()
+* [Skyrim Unbound Reborn (Alternate Start)]()
 
 #### Required for
 
@@ -391,6 +393,7 @@
 #### Required for
 
 * [Acquisitive Soul Gems Multithreaded]()
+* [Skyrim Unbound Reborn (Alternate Start)]()
 
 ### [Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/60805)
 
@@ -713,6 +716,7 @@
 * [Better Container Controls for SkyUI]()
 * [Wider MCM Menu for SkyUI]()
 * [MCM Helper]()
+* [Skyrim Unbound Reborn (Alternate Start)]()
 
 ### [SkyUI SE - Flashing Savegames Fix](https://www.nexusmods.com/skyrimspecialedition/mods/20406)
 
@@ -1926,6 +1930,49 @@
 #### Actions
 
 * Download, install and enable ["Realistic AI Detection 3 - Medium Interior High Exterior" file](https://www.nexusmods.com/skyrimspecialedition/mods/2345?tab=files&file_id=279350&nmm=1)
+
+### [Skyrim Unbound Reborn (Alternate Start)](https://www.nexusmods.com/skyrimspecialedition/mods/27962)
+
+#### Actions
+
+* Download, install and enable ["Skyrim Unbound Reborn" file](https://www.nexusmods.com/skyrimspecialedition/mods/27962?tab=files&file_id=331018&nmm=1). Choose the following options in FOMOD:
+  * "SkyUILib (Required)" section:
+    * Choose "Install SkyUILib" option
+  * "Patches" section:
+    * Check the following options:
+      * AOS - Audio Overhaul for Skyrim
+      * GDO - Guard Dialogue Overhaul SE
+      * RDO - Relationship Dialogue Overhaul
+      * Trade and Barter
+      * WACCF - Weapons Armor Clothing and Clutter Fixes
+  * "Addons" section:
+    * Check the following options:
+      * Vanilla Crossbow
+
+#### Requires
+
+* [Unofficial Skyrim Special Edition Patch]()
+* [powerofthree's Papyrus Extender]()
+* [PapyrusUtil SE - Modders Scripting Utility Functions]()
+* [SkyUI]()
+
+#### Required for
+
+* [Skyrim Unbound - Fixes]()
+
+### [Skyrim Unbound - Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/30536)
+
+#### Actions
+
+* Download, install and enable ["Skyrim Unbound - UHDAP Sounds" file](https://www.nexusmods.com/skyrimspecialedition/mods/30536?tab=files&file_id=139141&nmm=1)
+
+#### Requires
+
+* [Skyrim Unbound Reborn (Alternate Start)]()
+
+#### Comments
+
+* The last version of [Skyrim Unbound Reborn (Alternate Start)]() makes the whole mod unnecessary except the file mentioned above, which is described in ["Compatibility" article](https://www.nexusmods.com/skyrimspecialedition/articles/1470)
 
 ## Patches
 
