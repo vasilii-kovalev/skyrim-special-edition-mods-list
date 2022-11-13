@@ -1747,3 +1747,17 @@
 #### Actions
 
 * Download, install and enable ["Voltage 2K" file](https://www.nexusmods.com/skyrimspecialedition/mods/15565?tab=files&file_id=52703&nmm=1)
+
+## Load order sensitive mods
+
+### [No BS AI Projectile Dodge (Magic and Arrows) - Immersive Projectiles Nondetection of](https://www.nexusmods.com/skyrimspecialedition/mods/1763)
+
+#### Actions
+
+* Download, install and enable ["No BS AI Projectile Dodge" file](https://www.nexusmods.com/skyrimspecialedition/mods/1763?tab=files&file_id=66415&nmm=1)
+
+### [Realistic AI Detection (RAID)](https://www.nexusmods.com/skyrimspecialedition/mods/2345)
+
+#### Actions
+
+* Download, install and enable ["Realistic AI Detection 3 - Medium Interior High Exterior" file](https://www.nexusmods.com/skyrimspecialedition/mods/2345?tab=files&file_id=279350&nmm=1)
