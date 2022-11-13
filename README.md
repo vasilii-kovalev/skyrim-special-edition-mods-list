@@ -22,6 +22,7 @@
 * [Scaleform Translation Plus Plus]()
 * [PapyrusUtil SE - Modders Scripting Utility Functions]()
 * [Base Object Swapper]()
+* [Sound Record Distributor]()
 * [Remember Lockpick Angle - Updated]()
 * [Better Jumping SE]()
 * [Yes Im Sure]()
@@ -218,6 +219,10 @@
 
 * Download, install and enable ["Guard Dialogue Overhaul SE" file](https://www.nexusmods.com/skyrimspecialedition/mods/22075?tab=files&file_id=249890&nmm=1)
 
+#### Required for
+
+* [Guard Dialogue Overhaul - UHDAP Patch]()
+
 ### [Weapons Armor Clothing and Clutter Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/18994)
 
 #### Actions
@@ -403,6 +408,20 @@
 * [Dynamic Things Alternative - Base Object Swapper]()
 * [Stones of Solitude - Better Blended Rock Piles]()
 
+### [Sound Record Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/77815)
+
+#### Actions
+
+* Download, install and enable ["Sound Record Distributor" file](https://www.nexusmods.com/skyrimspecialedition/mods/77815?tab=files&file_id=331215&nmm=1)
+
+#### Requires
+
+* [Address Library for SKSE Plugins]()
+
+#### Required for
+
+* [Audio Overhaul for Skyrim SE]()
+
 ## Improvements
 
 ### [Cutting Room Floor - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/276)
@@ -425,10 +444,6 @@
 #### Requires
 
 * [Weapons Armor Clothing and Clutter Fixes]()
-
-#### Comments
-
-* Has a patch for [Spell Perk Item Distributor (SPID)]()
 
 ### [Lock Related Loot](https://www.nexusmods.com/skyrimspecialedition/mods/11342)
 
@@ -1204,7 +1219,16 @@
 #### Actions
 
 * Download, install and enable ["Interesting NPCs and WACCF Outfits Patch" file](https://www.nexusmods.com/skyrimspecialedition/mods/31858?tab=files&file_id=120144&nmm=1)
-* Enable `LoS II - 3DNPC addon.esp` file in the "Plugins" tab and put it under this one. It is mentioned here because the current patch is the last patch, which mod goes before [Lanterns Of Skyrim II]() one
+
+### [Lanterns Of Skyrim II]() patches
+
+#### Actions
+
+* Enable `LoS II - 3DNPC addon.esp` file in the "Plugins" tab and put it under the previous mod
+
+#### Requires
+
+* [Lanterns Of Skyrim II]()
 
 #### Requires
 
@@ -1599,6 +1623,125 @@
 
 * Download, install and enable ["Water Effects Brightness and Reflection Fix" file](https://www.nexusmods.com/skyrimspecialedition/mods/63862?tab=files&file_id=328036&nmm=1)
 
+## Audio and music
+
+### [Unofficial High Definition Audio Project](https://www.nexusmods.com/skyrimspecialedition/mods/18115)
+
+#### Actions
+
+* Download, install and enable ["Music - HQ" file](https://www.nexusmods.com/skyrimspecialedition/mods/18115?tab=files&file_id=57834&nmm=1)
+* Download, install and enable ["Voices EN - Part 1" file](https://www.nexusmods.com/skyrimspecialedition/mods/18115?tab=files&file_id=57972&nmm=1)
+* Download, install and enable ["Voices EN - Part 2" file](https://www.nexusmods.com/skyrimspecialedition/mods/18115?tab=files&file_id=57857&nmm=1)
+* Put all the `*.esp` files below the lowest ESP-ESL file (bold italic)
+
+#### Required for
+
+* [Guard Dialogue Overhaul - UHDAP Patch]()
+
+### [Guard Dialogue Overhaul - UHDAP Patch](https://www.nexusmods.com/skyrimspecialedition/mods/36366)
+
+#### Actions
+
+* Download, install and enable ["Guard Dialogue Overhaul - UHDAP Patch" file](https://www.nexusmods.com/skyrimspecialedition/mods/36366?tab=files&file_id=141692&nmm=1)
+
+#### Requires
+
+* [Guard Dialogue Overhaul SE]()
+* [Unofficial High Definition Audio Project]()
+
+### [Audio Overhaul for Skyrim SE](https://www.nexusmods.com/skyrimspecialedition/mods/12466)
+
+#### Actions
+
+* Download, install and enable ["Audio Overhaul Skyrim (3.9.1)" file](https://www.nexusmods.com/skyrimspecialedition/mods/12466?tab=files&file_id=330183&nmm=1)
+
+#### Requires
+
+* [Sound Record Distributor]()
+
+#### Required for
+
+* [Audio Overhaul - Immersive Sounds Integration (AOS - ISC Compatibility Patch)]()
+
+### [Immersive Sounds - Compendium](https://www.nexusmods.com/skyrimspecialedition/mods/523)
+
+#### Actions
+
+* Download, install and enable ["Immersive Sounds Compendium 3.0" file](https://www.nexusmods.com/skyrimspecialedition/mods/523?tab=files&file_id=221873&nmm=1). Choose the following in FOMOD:
+  * "Melee Options" page:
+    * "Weapon Impact Options" section:
+      * Choose "Less Intense" option
+    * "Weapon Unarmed Impact Options" section:
+      * Choose "S'wit Fighter Turbo" option
+    * "Weapon Draw/Sheathe Options" section:
+      * Choose "Semi-Smooth Equip" option
+  * "Ranged Weapons Options" page:
+    * "Bow Shot Options" section:
+      * Choose "Realistic - Twangy" option
+    * "Bow Pull Options" section:
+      * Choose "IS Default" option
+    * "Arrow Impact Options" section:
+      * Choose "Less Intense" option
+  * "Bonus Weaponry Options Options" page:
+    * "Extra Weaponry Options" section:
+      * Check "Smooth Weapon Swings" and "Silent Arrow Projectile Loop" options
+  * "Magic Options" page:
+    * "Soul Trap Options" section:
+      * Choose "Soul Suck (No Gem Rattling)" option
+    * "Restoration Options" section:
+      * Choose "Vanilla" option
+    * "Firebolt Options" section:
+      * Choose "Swooshy" option
+  * "Creature Options" page:
+    * "Creature Options" section:
+      * Check the following options:
+        * Demonic Draugr
+        * Well-Mannered Wolves
+        * Sensible Storm Atronachs
+  * "Misc Options" page:
+    * "Nirnroot Options" section:
+      * Choose "High Fantasy" option
+
+### Required for
+
+* [Audio Overhaul - Immersive Sounds Integration (AOS - ISC Compatibility Patch)]()
+* [Immersive Sounds Compendium - PATCHES]()
+
+### [Audio Overhaul - Immersive Sounds Integration (AOS - ISC Compatibility Patch)](https://www.nexusmods.com/skyrimspecialedition/mods/36761)
+
+#### Actions
+
+* Download, install and enable ["Audio Overhaul Skyrim - Immersive Sounds Compendium Integration (1.1.0)" file](https://www.nexusmods.com/skyrimspecialedition/mods/36761?tab=files&file_id=280412&nmm=1)
+
+#### Requires
+
+* [Audio Overhaul for Skyrim SE]()
+* [Immersive Sounds - Compendium]()
+
+### [Hypertrichosis -Werewolf Sounds Rework-](https://www.nexusmods.com/skyrimspecialedition/mods/49445)
+
+#### Actions
+
+* Download, install and enable ["Hypertrichosis -Werewolf Sounds Rework-" file](https://www.nexusmods.com/skyrimspecialedition/mods/49445?tab=files&file_id=241135&nmm=1). Choose the following options in FOMOD:
+  * "Hypertrichosis -Alpha Extra Gore Edition-" page:
+    * "Hypertrichosis" section:
+      * Choose "Hypertrichosis -Werewolf Sounds Rework-" option
+  * "Hypertrichosis -Moonlight Tales Mini Patch-" page:
+    * Check nothing
+
+### [Cursed -Sinding Voice Rework- (Enigma Series Chapter 2)](https://www.nexusmods.com/skyrimspecialedition/mods/41596)
+
+#### Actions
+
+* Download, install and enable ["Cursed -Sinding Voice Rework- (Enigma Series)" file](https://www.nexusmods.com/skyrimspecialedition/mods/41596?tab=files&file_id=166432&nmm=1)
+* Download, install and enable ["Cursed -Sinding Voice Rework- Update" file](https://www.nexusmods.com/skyrimspecialedition/mods/41596?tab=files&file_id=202455&nmm=1) using "Merge" option
+
+### [Sound Hammering Sounds](https://www.nexusmods.com/skyrimspecialedition/mods/5592)
+
+#### Actions
+
+* Download, install and enable ["Sound Hammering Sounds" file](https://www.nexusmods.com/skyrimspecialedition/mods/5592?tab=files&file_id=12403&nmm=1)
+
 ## Weather and lighting
 
 ### [RAID Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/63116)
@@ -1610,8 +1753,6 @@
 #### Comments
 
 * Installed because it works perfectly with [Realistic AI Detection (RAID)]() for stelth gameplay
-* Has a patch for [Audio Overhaul Skyrim]()
-* Has a patch for [Sounds of Skyrim]()
 
 ### [Wonders of Weather](https://www.nexusmods.com/skyrimspecialedition/mods/13044)
 
@@ -1749,6 +1890,29 @@
 * Download, install and enable ["Voltage 2K" file](https://www.nexusmods.com/skyrimspecialedition/mods/15565?tab=files&file_id=52703&nmm=1)
 
 ## Load order sensitive mods
+
+### [Audio Overhaul for Skyrim SE]() patches
+
+#### Actions
+
+* Download, install and enable ["Compatibility Patch for Enhanced Blood Textures" file](https://www.nexusmods.com/skyrimspecialedition/mods/12466?tab=files&file_id=143478&nmm=1)
+* Download, install and enable ["RAID Weathers - Audio Overhaul Skyrim patch" file](https://www.nexusmods.com/skyrimspecialedition/mods/63116?tab=files&file_id=302160&nmm=1) of [RAID Weathers]() mod
+
+#### Requires
+
+* [Audio Overhaul for Skyrim SE]()
+
+### [Immersive Sounds Compendium - PATCHES](https://www.nexusmods.com/skyrimspecialedition/mods/2951)
+
+#### Actions
+
+* Download, install and enable ["ISC Weapons Armor Clothing and Clutter Fixes (WACCF) Patch" file](https://www.nexusmods.com/skyrimspecialedition/mods/2951?tab=files&file_id=221875&nmm=1)
+* Download, install and enable ["ISC Mysticism - A Magic Overhaul Patch" file](https://www.nexusmods.com/skyrimspecialedition/mods/2951?tab=files&file_id=207412&nmm=1)
+* Download, install and enable ["ISC Enhanced Blood Textures Patch" file](https://www.nexusmods.com/skyrimspecialedition/mods/2951?tab=files&file_id=4512&nmm=1)
+
+#### Requires
+
+* [Immersive Sounds - Compendium]()
 
 ### [No BS AI Projectile Dodge (Magic and Arrows) - Immersive Projectiles Nondetection of](https://www.nexusmods.com/skyrimspecialedition/mods/1763)
 
