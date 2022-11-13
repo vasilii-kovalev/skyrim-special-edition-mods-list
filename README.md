@@ -691,6 +691,7 @@
 #### Actions
 
 * Download, install and enable ["Skyrim Sizes Lore 2.1" file](https://www.nexusmods.com/skyrimspecialedition/mods/587?tab=files&file_id=2631&nmm=1)
+* Re-save the mod using [Skyrim Special Edition: Creation Kit](https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/) to make it "Special Edition"-compatible (turn Form 43 into Form 44)
 
 ### [First Person Camera Height Fix](https://www.nexusmods.com/skyrimspecialedition/mods/28091)
 
