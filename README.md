@@ -1538,6 +1538,22 @@
 * Download, install and enable ["Frankly HD Miraak 1.0" file](https://www.nexusmods.com/skyrimspecialedition/mods/19699?tab=files&file_id=64768&nmm=1)
 * Download, install and enable ["Frankly HD Miraak HOTFIX 1.11" file](https://www.nexusmods.com/skyrimspecialedition/mods/19699?tab=files&file_id=64820&nmm=1) using "Merge" option
 
+### [Dressed Hearthfire Doll](https://www.nexusmods.com/skyrimspecialedition/mods/493)
+
+#### Actions
+
+* Download, install and enable ["Dressed Hearthfire Doll" file](https://www.nexusmods.com/skyrimspecialedition/mods/493?tab=files&file_id=13540&nmm=1). Choose the following options in FOMOD:
+  * "Choose install files" page:
+    * "Select Face Type" section:
+      * Choose "Smaller eyes" option
+  * "Install the dool body files" page:
+    * "Select a doll body" section:
+      * Choose "0 (human)" option
+  * "Install the one piece files" page:
+    * "Select color of the doll's dress" section:
+      * Choose "Red" option
+* Download, install and enable ["Decorative dolls and a strange doll" file](https://www.nexusmods.com/skyrimspecialedition/mods/493?tab=files&file_id=13541&nmm=1)
+
 ### [Simplicity of Snow](https://www.nexusmods.com/skyrimspecialedition/mods/56235)
 
 #### Actions
