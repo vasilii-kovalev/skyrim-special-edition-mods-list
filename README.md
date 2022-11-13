@@ -1926,3 +1926,70 @@
 #### Actions
 
 * Download, install and enable ["Realistic AI Detection 3 - Medium Interior High Exterior" file](https://www.nexusmods.com/skyrimspecialedition/mods/2345?tab=files&file_id=279350&nmm=1)
+
+## Patches
+
+### [QUASIPC - Qwinn's Unified Automated Self Installing Patch Compendium](https://www.nexusmods.com/skyrimspecialedition/mods/18369)
+
+#### Actions
+
+* Download, install and enable ["QUASIPC - Unified Patch Compendium v2_5_0" file](https://www.nexusmods.com/skyrimspecialedition/mods/18369?tab=files&file_id=91599&nmm=1). This mod automatically checks necessary compatibility patches, so just click "Next" button until the end
+* Delete `Qw_ELE_CRF Patch.esp` and `Qw_WACCF_ISC Patch.esp`
+* For each patch, place it after the lowest mod it covers
+
+#### Comments
+
+* `Qw_ELE_CRF Patch.esp` is removed because [Useless Patches Collection - Because who cares about conflict resolution and consistency]() already has it, and it's newer
+* `Qw_WACCF_ISC Patch.esp` is removed because [Immersive Sounds Compendium - PATCHES]() already has it, and it's newer
+
+### [Useless Patches Collection - Because who cares about conflict resolution and consistency](https://www.nexusmods.com/skyrimspecialedition/mods/27667)
+
+#### Actions
+
+* Download, install and enable ["Maybe Not That Useless Patches Collection 1.2.8" file](https://www.nexusmods.com/skyrimspecialedition/mods/27667?tab=files&file_id=182724&nmm=1). Choose the following options in FOMOD:
+  * "Unofficial Skyrim Special Edition Patch Patches" page:
+    * "Plugin Type" section:
+      * Check nothing
+  * "Song of the Green (Auri Follower) Patches" page:
+    * "Plugin Type" section:
+      * Check nothing
+  * "Audio Overhaul for Skyrim Patches" page:
+    * "Plugin Type" section:
+      * Check the following options:
+        * Improved Traps
+  * "Weapon Armor Clothing and Clutter Fixes Patches" page:
+    * "Plugin Type" section:
+      * Check the following options:
+        * Frankly HD Imperial Armors and Weapons
+        * Quaint Raven Rock
+        * Cutting Room Floor
+  * "Cutting Room Floor Patches" page:
+    * "Plugin Type" section:
+      * Check nothing
+  * "Armor and Clothing Extension Patches" page:
+    * "Plugin Type" section:
+      * Check the following options:
+        * WACCF and ACE - USSEP Arch-Mage Consistency Patch
+  * "The Forgotten City Patches" page:
+    * "Plugin Type" section:
+      * Check nothing
+  * "Recorder - Standalone Fully Voiced Folower Patches" page:
+    * "Plugin Type" section:
+      * Check nothing
+  * "Enhanced Lighting for ENB (ELE) Patches" page:
+    * "Plugin Type" section:
+      * Check nothing
+  * "Immersive Sounds - Compendium Patches" page:
+    * "Plugin Type" section:
+      * Check the following options:
+        * Arctic - Frost Effects Redux
+  * "Extra Patches" page:
+    * "Plugin Type" section:
+      * Check nothing
+* For each patch, place it after the lowest mod it covers
+
+### Comments
+
+* [Quaint Raven Rock]() patch on the "Unofficial Skyrim Special Edition Patch Patches" page is not chosen because [Quaint Raven Rock Patch Collection]() already has it, and it's newer
+* [Enhanced Lighting for ENB (ELE)]() patch on the "Cutting Room Floor Patches" page is not chosen because [Enhanced Lighting for ENB (ELE)]() already has it, and it's newer
+* [Relationship Dialogue Overhaul - RDO SE]() patch on the "Cutting Room Floor Patches" page is not chosen because [Relationship Dialogue Overhaul - RDO SE]() already has it, and also takes [Unofficial Skyrim Special Edition Patch]() into account
