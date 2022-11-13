@@ -21,6 +21,7 @@
 * [powerofthree's Papyrus Extender]()
 * [Scaleform Translation Plus Plus]()
 * [PapyrusUtil SE - Modders Scripting Utility Functions]()
+* [Base Object Swapper]()
 * [Remember Lockpick Angle - Updated]()
 * [Better Jumping SE]()
 * [Yes Im Sure]()
@@ -86,6 +87,7 @@
 #### Required for
 
 * [powerofthree's Papyrus Extender]()
+* [Base Object Swapper]()
 
 ### [Equip Enchantment Fix](https://www.nexusmods.com/skyrimspecialedition/mods/42839)
 
@@ -121,37 +123,15 @@
 
 #### Required for
 
-* [Skyrim Landscape and Water Fixes]()
 * [Weapons Armor Clothing and Clutter Fixes]()
 * [Butterflies Land True]()
 * [Scrambled Bugs]()
-* [Blacksmith Forge Water Fix - Special Edition]()
 * [Cutting Room Floor - SSE]()
 * [All Thieves Guild Jobs Concurrently]()
-* [Trade and Barter]()
 * [Harvest Overhaul Redone]()
-
-### [Skyrim Landscape and Water Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/26138)
-
-#### Actions
-
-* Download, install and enable ["Skyrim Landscape and Water Fixes - FOMOD" file](https://www.nexusmods.com/skyrimspecialedition/mods/26138?tab=files&file_id=319064&nmm=1). Choose the following in FOMOD:
-  * "Options" section:
-    * Check "No ownership edits" option
-  * Patches section:
-    * Check "Landscape Fixes for Grass Mods" option
-  * Walkway Wall FIX:
-    * Choose "SMIM" option
-* Disable `Landscape and Water Fixes - Patch - LFfGM.esp` file in "Plugins" tab in MO2
-
-#### Requires
-
-* [Unofficial Skyrim Special Edition Patch]()
-
-#### Comments
-
-* TODO: when SMIM is installed, this mod should go lower in the "Plugins" tab in MO2
-* TODO: when Better Dynamic Snow 2.x is installed, [Better Dynamic Snow Patcher xEdit](https://www.nexusmods.com/skyrimspecialedition/mods/33278) should be applied
+* [Trade and Barter]()
+* [Use Telekinesis on Traps]()
+* [Skyrim Landscape and Water Fixes]()
 
 ### [Landscape Fixes For Grass Mods](https://www.nexusmods.com/skyrimspecialedition/mods/9005)
 
@@ -159,19 +139,17 @@
 
 * Download, install and enable ["Landscape Fixes For Grass Mods" file](https://www.nexusmods.com/skyrimspecialedition/mods/9005?tab=files&file_id=320767&nmm=1)
 * Download, install and enable ["z Vanilla Military Camps" file](https://www.nexusmods.com/skyrimspecialedition/mods/9005?tab=files&file_id=93654&nmm=1)
-* Download and install ["zNo Riverbededge Grass Coast or the Rift" file](https://www.nexusmods.com/skyrimspecialedition/mods/9005?tab=files&file_id=84129&nmm=1), **but do not enable it**
-* Enable `Landscape and Water Fixes - Patch - LFfGM.esp` file and put it below all the mod's files in "Plugins" tab in MO2
+* Download and install ["zNo Riverbededge Grass Coast or the Rift" file](https://www.nexusmods.com/skyrimspecialedition/mods/9005?tab=files&file_id=84129&nmm=1)
 
 #### Comments
 
-* TODO: enable "zNo Riverbededge Grass Coast or the Rift" file and put after grass mods
+* Since there will be no any grass mods, the `zNo Riverbededge Grass Coast or the Rift` can be enabled right away. Otherwise, it would be necessary to put it after the grass mods
 
 ### [No grass in caves](https://www.nexusmods.com/skyrimspecialedition/mods/12431)
 
 #### Actions
 
-* Download, install and enable ["No Grass In Caves" file](https://www.nexusmods.com/skyrimspecialedition/mods/12431?tab=files&file_id=96021&nmm=1)
-* Download and install ["No Grass In Caves (ELE) Enhanced Lighting for ENB patch" file](https://www.nexusmods.com/skyrimspecialedition/mods/12431?tab=files&file_id=96023&nmm=1), **but do not enable it**
+* Download and install ["No Grass In Caves (ELE) Enhanced Lighting for ENB patch" file](https://www.nexusmods.com/skyrimspecialedition/mods/12431?tab=files&file_id=96023&nmm=1)
 
 ### [DLL Plugin Loader](https://www.nexusmods.com/skyrimspecialedition/mods/10546)
 
@@ -210,38 +188,6 @@
 #### Requires
 
 * [.NET Script Framework]()
-
-### [Flickering Meshes Fix](https://www.nexusmods.com/skyrimspecialedition/mods/53957)
-
-#### Actions
-
-* Download, install and enable ["Flickering Meshes Fix" file](https://www.nexusmods.com/skyrimspecialedition/mods/53957?tab=files&file_id=296728&nmm=1). Choose the following in FOMOD:
-  * "Main cities" page:
-    * "Riften" section:
-      * Choose "No parallax version" option
-    * "Solitude" section:
-      * Choose "No parallax version" option
-    * "Whiterun" section:
-      * Choose "No parallax version" option
-    * "Markarth" section:
-      * Choose "No parallax version" option
-    * "Windhelm" section:
-      * Choose "No parallax version" option
-  * "Towns and Villages" page:
-    * "Whiterun and Windhelm Holds's farmhouses" section:
-      * Choose "Farmhouses Without Parallax" option
-    * "Solitude Holds's farmhouses" section:
-      * Choose "Farmhouses Without Parallax" option
-    * "Markarth Holds's farmhouses" section:
-      * Choose "Farmhouses Without Parallax" option
-  * "Compatibility choices" page:
-    * "Select what you are using" section:
-      * Check "Majestic Mountains", "SMIM" and "Water for ENB" options
-* Download, install and enable ["farmhouse05.nif updated - no parallax version" file](https://www.nexusmods.com/skyrimspecialedition/mods/53957?tab=files&file_id=310333&nmm=1)
-
-#### Comments
-
-* Until SMIM is installed, some object may have a pink/violet color (like wind mill in Solitude)
 
 ### [Skyrim Fixes Collection](https://www.nexusmods.com/skyrimspecialedition/mods/38314)
 
@@ -329,7 +275,6 @@
 
 #### Comments
 
-* TODO: use SMIM patch when SMIM is installed
 * Flora respawn Fix is included
 
 ### [Spiders of Solstheim - Transparency Fix](https://www.nexusmods.com/skyrimspecialedition/mods/60012)
@@ -362,17 +307,6 @@
 
 * Download, install and enable ["Solitude Empty Landscape Fix" file](https://www.nexusmods.com/skyrimspecialedition/mods/70678?tab=files&file_id=295920&nmm=1)
 
-### [Blacksmith Forge Water Fix - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/1291)
-
-#### Actions
-
-* Download, install and enable ["Blacksmith Forge Water Fix SE - USSEP" file](https://www.nexusmods.com/skyrimspecialedition/mods/1291?tab=files&file_id=47147&nmm=1)
-* Download and install ["BFWF - Cutting Room Floor Patch" file](https://www.nexusmods.com/skyrimspecialedition/mods/1291?tab=files&file_id=27975&nmm=1), **but do not enable it**
-
-#### Requires
-
-* [Unofficial Skyrim Special Edition Patch]()
-
 ### [powerofthree's Papyrus Extender](https://www.nexusmods.com/skyrimspecialedition/mods/22854)
 
 #### Actions
@@ -383,6 +317,9 @@
 
 * [Address Library for SKSE Plugins]()
 * [powerofthree's Tweaks]()
+* [Pickpocket Everyone - Steal from Any Creature]()
+* [Use Telekinesis on Traps]()
+* [Dynamic Things Alternative - Base Object Swapper]()
 
 #### Required for
 
@@ -404,6 +341,12 @@
 
 * Download, install and enable ["Serana's Hood Fix" file](https://www.nexusmods.com/skyrimspecialedition/mods/20243?tab=files&file_id=217670&nmm=1). Choose "Realistic" option in FOMOD
 
+### [Blood (Green) Dragon texture fix](https://www.nexusmods.com/skyrimspecialedition/mods/51097)
+
+#### Actions
+
+* Download, install and enable ["Green Dragon texture fix" file](https://www.nexusmods.com/skyrimspecialedition/mods/51097?tab=files&file_id=208723&nmm=1)
+
 ### [Scaleform Translation Plus Plus](https://www.nexusmods.com/skyrimspecialedition/mods/22603)
 
 #### Actions
@@ -420,6 +363,10 @@
 
 ### [Fuz Ro D-oh - Silent Voice](https://www.nexusmods.com/skyrimspecialedition/mods/15109)
 
+#### Actions
+
+* Download, install and enable ["Fuz Ro D'oh" file](https://www.nexusmods.com/skyrimspecialedition/mods/15109?tab=files&file_id=114169&nmm=1) (version 1.7)
+
 ### [PapyrusUtil SE - Modders Scripting Utility Functions](https://www.nexusmods.com/skyrimspecialedition/mods/13048)
 
 #### Actions
@@ -434,9 +381,21 @@
 
 * [Acquisitive Soul Gems Multithreaded]()
 
+### [Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/60805)
+
 #### Actions
 
-* Download, install and enable ["Fuz Ro D'oh" file](https://www.nexusmods.com/skyrimspecialedition/mods/15109?tab=files&file_id=114169&nmm=1) (version 1.7)
+* Download, install and enable ["Base Object Swapper" file](https://www.nexusmods.com/skyrimspecialedition/mods/60805?tab=files&file_id=329638&nmm=1)
+
+#### Requires
+
+* [Address Library for SKSE Plugins]()
+* [powerofthree's Tweaks]()
+
+#### Required for
+
+* [Dynamic Things Alternative - Base Object Swapper]()
+* [Stones of Solitude - Better Blended Rock Piles]()
 
 ## Improvements
 
@@ -1023,6 +982,16 @@
 
 * Download, install and enable ["Mum's the Word" file](https://www.nexusmods.com/skyrimspecialedition/mods/27713?tab=files&file_id=115787&nmm=1)
 
+### [Pickpocket Everyone - Steal from Any Creature](https://www.nexusmods.com/skyrimspecialedition/mods/38702)
+
+#### Actions
+
+* Download, install and enable ["Pickpocket Everyone" file](https://www.nexusmods.com/skyrimspecialedition/mods/38702?tab=files&file_id=152353&nmm=1)
+
+#### Requires
+
+* [powerofthree's Papyrus Extender]()
+
 ### [Crime Bounty Decay SE](https://www.nexusmods.com/skyrimspecialedition/mods/25457)
 
 #### Actions
@@ -1091,6 +1060,28 @@
 #### Requires
 
 * [PapyrusUtil SE - Modders Scripting Utility Functions]()
+
+### [Use Telekinesis on Traps](https://www.nexusmods.com/skyrimspecialedition/mods/59350)
+
+#### Actions
+
+* Download, install and enable ["Use Telekinesis on Traps - po3's Papyrus Extender Version" file](https://www.nexusmods.com/skyrimspecialedition/mods/59350?tab=files&file_id=246095&nmm=1)
+
+#### Requires
+
+* [Unofficial Skyrim Special Edition Patch]()
+* [powerofthree's Papyrus Extender]()
+
+### [Dynamic Things Alternative - Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/60741)
+
+#### Actions
+
+* Download, install and enable ["Dynamic Things Alternative - Base Object Swapper" file](https://www.nexusmods.com/skyrimspecialedition/mods/60741?tab=files&file_id=283058&nmm=1)
+
+#### Requires
+
+* [powerofthree's Papyrus Extender]()
+* [Base Object Swapper]()
 
 ### [Quick Light SE](https://www.nexusmods.com/skyrimspecialedition/mods/12633)
 
@@ -1181,28 +1172,16 @@
       * "LoS II - Settlements Expanded patch"
   * "Patches (C)" page:
     * Leave everything unchecked
-  Arrange the patches in the order the mods go
+* Extract BSA using [Cathedral Assets Optimizer](https://www.nexusmods.com/skyrimspecialedition/mods/23316) and hide the following files:
+  * `meshes/architecture/windhelm/windhelmbridge.nif`
+  * `meshes/architecture/windhelm/windhelmbridge2.nif`
 * Put "Lanterns Of Skyrim II.esm" below the lowest ESP-ESL file (bold italic)
+* Disable `LoS II - 3DNPC addon.esp` and `LoS II - SMIM patch.esp` files in the "Plugins" tab for now
+* Arrange other patches in the order the relevant mods go
 
-### [Blacksmith Forge Water Fix xEdit Script](https://www.nexusmods.com/skyrimspecialedition/mods/29758)
+#### Comments
 
-#### Actions
-
-* Download, install and enable ["Water Trough Mesh" file](https://www.nexusmods.com/skyrimspecialedition/mods/29758?tab=files&file_id=151685&nmm=1)
-* Download ["xEdit Script" file](https://www.nexusmods.com/skyrimspecialedition/mods/29758?tab=files&file_id=243398) manually and extract the file from the archive to xEdit scripts folder (`<xEdit_folder>/Edit Scripts`)
-* Run xEdit and load all the mods
-* Patch [Settlements Expanded]():
-  * Click on [Settlements Expanded]() mod with the right mouse button
-  * Click on the "Apply Script" menu option
-  * Choose "Blacksmith Forge Water Patch" in the list and click "OK" button
-  * Give the patch a name (for example, "Settlements Expanded Blacksmith Forge Water Patch") and click "OK" button
-  * Click "Exit xEdit" button
-  * Check the created patch and click "OK" button
-  * Check MO2 "Overwrite" section. Make sure only the patch file is presented. Remove other files if exist
-  * Click on the section with the right mouse button
-  * Click on the "Create Mod" menu option
-  * Give the mod the same name as the patch have and click "OK" button
-  * Enable the mod and put it after [Settlements Expanded]() itself and other related patches
+* Hiding the meshes is necessary because otherwise the bridge to Windhelm will will be pixelized
 
 ## Additional NPC's
 
@@ -1214,7 +1193,6 @@
 * Download, install and enable ["Interesting NPCs - 4.5 to 4.53 Update" file](https://www.nexusmods.com/skyrimspecialedition/mods/29194?tab=files&file_id=316951&nmm=1)
 * Download, install and enable ["Interesting NPCs SE - Cutting Room Floor SSE Patch" file](https://www.nexusmods.com/skyrimspecialedition/mods/29194?tab=files&file_id=130592&nmm=1)
 * Put `3DNPC.esp` below the lowest ESP-ESL file (bold italic)
-* Enable and put `LoS II - 3DNPC addon.esp` after all the mod's files
 
 #### Required for
 
@@ -1225,8 +1203,377 @@
 #### Actions
 
 * Download, install and enable ["Interesting NPCs and WACCF Outfits Patch" file](https://www.nexusmods.com/skyrimspecialedition/mods/31858?tab=files&file_id=120144&nmm=1)
+* Enable `LoS II - 3DNPC addon.esp` file in the "Plugins" tab and put it under this one. It is mentioned here because the current patch is the last patch, which mod goes before [Lanterns Of Skyrim II]() one
 
 #### Requires
 
 * [Weapons Armor Clothing and Clutter Fixes]()
 * [Interesting NPCs SE (3DNPC)]()
+
+## Meshes and textures
+
+### [unofficial performance optimized textures AKA (UPOT)](https://www.nexusmods.com/skyrimspecialedition/mods/21166)
+
+#### Actions
+
+* Download, install and enable ["upot anniversary edition" file](https://www.nexusmods.com/skyrimspecialedition/mods/21166?tab=files&file_id=241623&nmm=1)
+
+### [Static Mesh Improvement Mod - SMIM](https://www.nexusmods.com/skyrimspecialedition/mods/659)
+
+#### Actions
+
+* Download, install and enable ["SMIM SE 2-08" file](https://www.nexusmods.com/skyrimspecialedition/mods/659?tab=files&file_id=59069&nmm=1). Choose "Skyrim 2016 Special Edition: Everything" option in FOMOD
+* Download, install and enable ["WM's Flora Fixes - SMIM Patch" file](https://www.nexusmods.com/skyrimspecialedition/mods/28197?tab=files&file_id=103242&nmm=1) of [Wiseman303's Flora Fixes - Revamped]() mod
+* Enable `LoS II - SMIM patch.esp` file in the "Plugins" tab and put it under this one
+
+#### Required for
+
+* [Skyrim Landscape and Water Fixes]()
+* [Unofficial Material Fix]()
+* [Sconces of Skyrim - Markarth Braziers Improved]()
+* [Riekling Barrels SMIM]()
+* [SMIM Barrel Expansion - Mead Barrel - Oil Barrel - Butter Churn]()
+* [Simplicity of Snow]()
+
+### [Skyrim Landscape and Water Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/26138)
+
+#### Actions
+
+* Download, install and enable ["Skyrim Landscape and Water Fixes - FOMOD" file](https://www.nexusmods.com/skyrimspecialedition/mods/26138?tab=files&file_id=319064&nmm=1). Choose the following in FOMOD:
+  * "Options" section:
+    * Check "No ownership edits" option
+  * Patches section:
+    * Check "Landscape Fixes for Grass Mods" option
+  * Walkway Wall FIX:
+    * Choose "SMIM" option
+* Put `Landscape and Water Fixes.esp` below the lowest ESP-ESL file (bold italic)
+
+#### Requires
+
+* [Unofficial Skyrim Special Edition Patch]()
+* [Static Mesh Improvement Mod - SMIM]()
+
+### [Unofficial Material Fix](https://www.nexusmods.com/skyrimspecialedition/mods/21027)
+
+#### Actions
+
+* Download, install and enable ["Unofficial Material Fix" file](https://www.nexusmods.com/skyrimspecialedition/mods/21027?tab=files&file_id=113020&nmm=1)
+
+#### Requires
+
+* [Static Mesh Improvement Mod - SMIM]()
+
+### [Shadows Of Sunlight - In Small Exterior World Spaces](https://www.nexusmods.com/skyrimspecialedition/mods/41368)
+
+#### Actions
+
+* Download, install and enable ["Shadows Of Sunlight - In Small Exterior World Spaces" file](https://www.nexusmods.com/skyrimspecialedition/mods/41368?tab=files&file_id=220750&nmm=1)
+
+### [Labyrinthian Shalidor's Maze Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/52239)
+
+#### Actions
+
+* Download, install and enable ["Labyrinthian Shalidor's Maze Fixes" file](https://www.nexusmods.com/skyrimspecialedition/mods/52239?tab=files&file_id=214147&nmm=1)
+
+### [Assorted mesh fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117)
+
+#### Actions
+
+* Download, install and enable ["Assorted mesh fixes" file](https://www.nexusmods.com/skyrimspecialedition/mods/32117?tab=files&file_id=330272&nmm=1)
+
+### [Ruins Clutter Improved](https://www.nexusmods.com/skyrimspecialedition/mods/5870)
+
+#### Actions
+
+* Download, install and enable ["Ruins Clutter Improved SE Mod Manager" file](https://www.nexusmods.com/skyrimspecialedition/mods/5870?tab=files&file_id=254650&nmm=1). Choose "Install Everything" option in FOMOD
+
+### [Whiterun Objects SMIMed (and fixes too)](https://www.nexusmods.com/skyrimspecialedition/mods/69125)
+
+#### Actions
+
+* Download, install and enable ["Whiterun Objects SMIMed" file](https://www.nexusmods.com/skyrimspecialedition/mods/69125?tab=files&file_id=291790&nmm=1)
+
+### [Skyrim Objects SMIMed - Warmaiden's Holes](https://www.nexusmods.com/skyrimspecialedition/mods/77086)
+
+#### Actions
+
+* Download, install and enable ["Skyrim Objects SMIMed - Warmaiden's Holes" file](https://www.nexusmods.com/skyrimspecialedition/mods/77086?tab=files&file_id=324028&nmm=1)
+
+### [Riften Temple Sconce Fix](https://www.nexusmods.com/skyrimspecialedition/mods/76169)
+
+#### Actions
+
+* Download, install and enable ["Riften Temple Sconce Fix" file](https://www.nexusmods.com/skyrimspecialedition/mods/76169?tab=files&file_id=319699&nmm=1)
+
+### [Solitude Objects SMIMed - Castle Dour Spire](https://www.nexusmods.com/skyrimspecialedition/mods/68939)
+
+#### Actions
+
+* Download, install and enable ["Solitude Objects SMIMed - Castle Dour Spire" file](https://www.nexusmods.com/skyrimspecialedition/mods/68939?tab=files&file_id=288044&nmm=1)
+
+### [Solitude Objects SMIMed - Solitude well](https://www.nexusmods.com/skyrimspecialedition/mods/68896)
+
+#### Actions
+
+* Download, install and enable ["Solitude Objects SMIMed - Solitude well" file](https://www.nexusmods.com/skyrimspecialedition/mods/68896?tab=files&file_id=287830&nmm=1). Choose "No Water in Wells" option in FOMOD
+
+### [Stones of Solitude - Better Blended Rock Piles](https://www.nexusmods.com/skyrimspecialedition/mods/60762)
+
+#### Actions
+
+* Download, install and enable ["Stones of Solitude - Better Blended Rock Piles" file](https://www.nexusmods.com/skyrimspecialedition/mods/60762?tab=files&file_id=265612&nmm=1)
+
+#### Requires
+
+* [Base Object Swapper]()
+
+### [Windhelm Fence 3D](https://www.nexusmods.com/skyrimspecialedition/mods/65346)
+
+#### Actions
+
+* Download, install and enable ["Windhelm Fence 3D - Fomod Installer" file](https://www.nexusmods.com/skyrimspecialedition/mods/65346?tab=files&file_id=273542&nmm=1). Choose "Custom textures 2K" option in FOMOD
+
+### [Stairs of Skyrim - Windhelm Bridge Stairs](https://www.nexusmods.com/skyrimspecialedition/mods/78399)
+
+#### Actions
+
+* Download, install and enable ["Windhelm Bridge Stairs" file](https://www.nexusmods.com/skyrimspecialedition/mods/78399?tab=files&file_id=331059&nmm=1)
+
+### [Sconces of Skyrim - Markarth Braziers Improved](https://www.nexusmods.com/skyrimspecialedition/mods/67386)
+
+#### Actions
+
+* Download, install and enable ["Markarth Braziers Improved" file](https://www.nexusmods.com/skyrimspecialedition/mods/67386?tab=files&file_id=289634&nmm=1)
+
+#### Requires
+
+* [Static Mesh Improvement Mod - SMIM]()
+
+### [Blackreach Tentacle Mesh Fix](https://www.nexusmods.com/skyrimspecialedition/mods/43083)
+
+#### Actions
+
+* Download, install and enable ["Blackreach Tentacle Mesh Fix" file](https://www.nexusmods.com/skyrimspecialedition/mods/43083?tab=files&file_id=173163&nmm=1)
+
+### [High Poly Blackreach Mushrooms](https://www.nexusmods.com/skyrimspecialedition/mods/40418)
+
+#### Actions
+
+* Download, install and enable ["High Poly Blackreach Mushrooms" file](https://www.nexusmods.com/skyrimspecialedition/mods/40418?tab=files&file_id=196429&nmm=1)
+
+### [Solstheim Objects SMIMed - High Poly Dark Elf Furniture](https://www.nexusmods.com/skyrimspecialedition/mods/53779)
+
+#### Actions
+
+* Download, install and enable ["Solstheim Objects SMIMed - High Poly Dark Elf Furniture" file](https://www.nexusmods.com/skyrimspecialedition/mods/53779?tab=files&file_id=221515&nmm=1)
+
+### [Riekling Barrels SMIM](https://www.nexusmods.com/skyrimspecialedition/mods/43306)
+
+#### Actions
+
+* Download, install and enable ["Riekling Barrels SMIM" file](https://www.nexusmods.com/skyrimspecialedition/mods/43306?tab=files&file_id=174353&nmm=1)
+
+#### Requires
+
+* [Static Mesh Improvement Mod - SMIM]()
+
+### [SMIM Barrel Expansion - Mead Barrel - Oil Barrel - Butter Churn](https://www.nexusmods.com/skyrimspecialedition/mods/67676)
+
+#### Actions
+
+* Download, install and enable ["SMIM Barrel Expansion - Mead Barrel - Oil Barrel - Butter Churn" file](https://www.nexusmods.com/skyrimspecialedition/mods/67676?tab=files&file_id=282146&nmm=1)
+
+#### Requires
+
+* [Static Mesh Improvement Mod - SMIM]()
+
+### [High Poly Canticle Tree](https://www.nexusmods.com/skyrimspecialedition/mods/51433)
+
+#### Actions
+
+* Download, install and enable ["High Poly Canticle Tree" file](https://www.nexusmods.com/skyrimspecialedition/mods/51433?tab=files&file_id=210242&nmm=1)
+
+### [Stockades of Skyrim 3D](https://www.nexusmods.com/skyrimspecialedition/mods/43227)
+
+#### Actions
+
+* Download, install and enable ["Stockades of Skyrim 3D" file](https://www.nexusmods.com/skyrimspecialedition/mods/43227?tab=files&file_id=174357&nmm=1)
+
+### [Skyrim Objects SMIMed - Glazed and Nordic Pottery](https://www.nexusmods.com/skyrimspecialedition/mods/69487)
+
+#### Actions
+
+* Download, install and enable ["Skyrim Objects SMIMed - Glazed and Nordic Pottery" file](https://www.nexusmods.com/skyrimspecialedition/mods/69487?tab=files&file_id=290371&nmm=1)
+
+### [Silver Objects SMIMed - Silver - Sovngarde - Thieves Guild - Vampire](https://www.nexusmods.com/skyrimspecialedition/mods/70787)
+
+#### Actions
+
+* Download, install and enable ["Silver Objects SMIMed" file](https://www.nexusmods.com/skyrimspecialedition/mods/70787?tab=files&file_id=297083&nmm=1)
+
+### [Blacksmith Forge Water Fix xEdit Script](https://www.nexusmods.com/skyrimspecialedition/mods/29758)
+
+#### Actions
+
+* Download, install and enable ["Water Trough Mesh" file](https://www.nexusmods.com/skyrimspecialedition/mods/29758?tab=files&file_id=151685&nmm=1)
+* Download ["xEdit Script" file](https://www.nexusmods.com/skyrimspecialedition/mods/29758?tab=files&file_id=243398) manually and extract the file from the archive to xEdit scripts folder (`<xEdit_folder>/Edit Scripts`)
+* Patch [Settlements Expanded]() mod:
+  * Run xEdit and load all the mods
+  * Click on "Settlements Expanded" mod with the right mouse button
+  * Click on the "Apply Script" menu option
+  * Choose "Blacksmith Forge Water Patch" in the list and click "OK" button
+  * Give the patch a name (for example, "Settlements Expanded Blacksmith Forge Water Patch") and click "OK" button
+  * Click "Exit xEdit" button
+  * Check the created patch and click "OK" button
+  * Check MO2 "Overwrite" section. Make sure only the patch file is presented. Remove other files if exist
+  * Click on the section with the right mouse button
+  * Click on the "Create Mod" menu option
+  * Give the mod the same name as the patch have and click "OK" button
+  * Enable the mod and put it after [Settlements Expanded]() itself and other related patches
+
+### [Detailing the Eldrich - Higher-Res Riekling Architecture](https://www.nexusmods.com/skyrimspecialedition/mods/46975)
+
+#### Actions
+
+* Download, install and enable ["Detailing the Eldrich - Higher-Res Riekling Architecture" file](https://www.nexusmods.com/skyrimspecialedition/mods/46975?tab=files&file_id=191370&nmm=1)
+
+### [CC's Enhanced Ore Veins SSE Edition](https://www.nexusmods.com/skyrimspecialedition/mods/1306)
+
+#### Actions
+
+* Download, install and enable ["Enhanced Ore Veins - 2K - 9.0.1" file](https://www.nexusmods.com/skyrimspecialedition/mods/1306?tab=files&file_id=246044&nmm=1). Choose the following options in FOMOD:
+  * "Brightness" page:
+    * Choose "Normal" option
+  * "Mined Ores" page:
+    * Choose "Install New Textures" option
+  * "Ingots" page:
+    * Choose "Install New Textures" option
+  * "Patches" page:
+    * Check "Hearthfire" option
+  * "Format" page:
+    * Check "ESP" option
+
+### [Enhanced Blood Textures](https://www.nexusmods.com/skyrimspecialedition/mods/2357)
+
+#### Actions
+
+* Download, install and enable ["Enhanced Blood Textures" file](https://www.nexusmods.com/skyrimspecialedition/mods/2357?tab=files&file_id=249235&nmm=1). Choose the following options in FOMOD:
+  * "Core Install" page:
+    * "SPID Compatibility and Script Distance" section:
+      * Choose "Standard Install with Long Distance [default]" option
+    * "Blood Size (Optional)" section:
+      * Choose "Default Splatter Size" option
+    * "Wounds (Optional)" section:
+      * Choose "EBT - Default" option
+    * "Drips (Optional)" section:
+      * Choose "Default" option
+    * "Screen Blood" section:
+      * Choose "Default" option
+  * "Textures" page:
+    * Choose "Reduced Res / Default Color" option
+  * "Alternate Textures" page:
+    * Choose "None" option
+
+### [RUSTIC CLOTHING - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/4703)
+
+#### Actions
+
+* Download, install and enable ["RUSTIC CLOTHING - Special Edition - 2K" file](https://www.nexusmods.com/skyrimspecialedition/mods/4703?tab=files&file_id=154781&nmm=1)
+
+### [RUSTIC ARMOR and WEAPONS SE](https://www.nexusmods.com/skyrimspecialedition/mods/19666)
+
+#### Actions
+
+* Download, install and enable ["RAW SSE - 2K" file](https://www.nexusmods.com/skyrimspecialedition/mods/19666?tab=files&file_id=69261&nmm=1)
+
+### [aMidianBorn Book of Silence SE](https://www.nexusmods.com/skyrimspecialedition/mods/35382)
+
+#### Actions
+
+* Download, install and enable ["1) aMidianBorn Book of Silence SE -- COMPLETE" file](https://www.nexusmods.com/skyrimspecialedition/mods/35382?tab=files&file_id=148088&nmm=1)
+
+### [Frankly HD Dragon Bones](https://www.nexusmods.com/skyrimspecialedition/mods/25099)
+
+#### Actions
+
+* Download, install and enable ["Frankly HD Dragonbones 4k-2k" file](https://www.nexusmods.com/skyrimspecialedition/mods/25099?tab=files&file_id=88687&nmm=1)
+
+### [Frankly HD Dragonbone and Dragonscale - Armor and Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/25110)
+
+#### Actions
+
+* Download, install and enable ["Frankly HD Dragonbone and Dragonscale 2k" file](https://www.nexusmods.com/skyrimspecialedition/mods/25110?tab=files&file_id=88740&nmm=1)
+* Download, install and enable ["Frankly HD Dragonbone and Dragonscale - Mesh patch" file](https://www.nexusmods.com/skyrimspecialedition/mods/25110?tab=files&file_id=88745&nmm=1) using "Merge" option
+
+### [Frankly HD Imperial Armor and Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/20848)
+
+#### Actions
+
+* Download, install and enable ["Frankly HD Imperial Armor And Weapons 2k" file](https://www.nexusmods.com/skyrimspecialedition/mods/20848?tab=files&file_id=70590&nmm=1)
+
+### [Frankly HD Dawnguard Armor and Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/19663)
+
+#### Actions
+
+* Download, install and enable ["FranklyHD Dawnguard Armor and Weapons" file](https://www.nexusmods.com/skyrimspecialedition/mods/19663?tab=files&file_id=70809&nmm=1). Choose "2K Resolution" option in FOMOD
+
+### [Frankly HD Thieves Guild Armors](https://www.nexusmods.com/skyrimspecialedition/mods/19953)
+
+#### Actions
+
+* Download, install and enable ["Frankly HD Thieves Guild Armors" file](https://www.nexusmods.com/skyrimspecialedition/mods/19953?tab=files&file_id=66049&nmm=1). Choose "2K Resolution" option in FOMOD
+
+### [Frankly HD Nightingale Armor and Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/18560)
+
+#### Actions
+
+* Download, install and enable ["Frankly HD Nightingale Armor and Weapons 1.1" file](https://www.nexusmods.com/skyrimspecialedition/mods/18560?tab=files&file_id=59909&nmm=1). Choose options in FOMOD:
+  * "Texteure Resolution" page:
+    * Choose "2K Resolution" option
+  * "Optionals" page:
+    * Check "Less Saturated Weathering" and "Full glove" options
+
+### [Frankly HD Shrouded Armor](https://www.nexusmods.com/skyrimspecialedition/mods/18785)
+
+#### Actions
+
+* Download, install and enable ["Frankly HD Shrouded Armor _ 1.1" file](https://www.nexusmods.com/skyrimspecialedition/mods/18785?tab=files&file_id=61496&nmm=1). Choose the following options in FOMOD:
+  * "Texteure Resolution" page:
+    * Choose "2K Resolution" option
+  * "Optionals" page:
+    * Check nothing
+
+### [Frankly HD Miraak](https://www.nexusmods.com/skyrimspecialedition/mods/19699)
+
+#### Actions
+
+* Download, install and enable ["Frankly HD Miraak 1.0" file](https://www.nexusmods.com/skyrimspecialedition/mods/19699?tab=files&file_id=64768&nmm=1)
+* Download, install and enable ["Frankly HD Miraak HOTFIX 1.11" file](https://www.nexusmods.com/skyrimspecialedition/mods/19699?tab=files&file_id=64820&nmm=1) using "Merge" option
+
+### [Simplicity of Snow](https://www.nexusmods.com/skyrimspecialedition/mods/56235)
+
+#### Actions
+
+* Download, install and enable ["Simplicity of Snow" file](https://www.nexusmods.com/skyrimspecialedition/mods/56235?tab=files&file_id=310949&nmm=1)
+
+#### Requires
+
+* [Static Mesh Improvement Mod - SMIM]()
+
+### [Shaders of Solstheim - Ash and Moss](https://www.nexusmods.com/skyrimspecialedition/mods/60144s)
+
+#### Actions
+
+* Download, install and enable ["Shaders of Solstheim - Ash and Moss" file](https://www.nexusmods.com/skyrimspecialedition/mods/60144?tab=files&file_id=250507&nmm=1)
+
+### [Simplicity of Sea - Water Mod with ENB Displacement Textures](https://www.nexusmods.com/skyrimspecialedition/mods/56520)
+
+#### Actions
+
+* Download, install and enable ["Water Mod" file](https://www.nexusmods.com/skyrimspecialedition/mods/56520?tab=files&file_id=326620&nmm=1)
+
+### [Water Effects Brightness and Reflection Fix](https://www.nexusmods.com/skyrimspecialedition/mods/63862)
+
+#### Actions
+
+* Download, install and enable ["Water Effects Brightness and Reflection Fix" file](https://www.nexusmods.com/skyrimspecialedition/mods/63862?tab=files&file_id=328036&nmm=1)
