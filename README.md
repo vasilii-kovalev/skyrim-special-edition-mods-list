@@ -32,7 +32,10 @@
 * [moreHUD SE]()
 * [moreHUD Inventory Edition]()
 * [I'm Walkin' Here]()
+* [MCM Helper]()
 * [Thaumaturgy - An Enchanting Overhaul]()
+* [Frozen Electrocuted Combustion [FEC]]()
+* [Splashes Of Skyrim]()
 
 ### [SSE Engine Fixes (skse64 plugin)](https://www.nexusmods.com/skyrimspecialedition/mods/17230)
 
@@ -88,6 +91,7 @@
 
 * [powerofthree's Papyrus Extender]()
 * [Base Object Swapper]()
+* [Frozen Electrocuted Combustion [FEC]]()
 
 ### [Equip Enchantment Fix](https://www.nexusmods.com/skyrimspecialedition/mods/42839)
 
@@ -321,6 +325,7 @@
 * [Pickpocket Everyone - Steal from Any Creature]()
 * [Use Telekinesis on Traps]()
 * [Dynamic Things Alternative - Base Object Swapper]()
+* [Frozen Electrocuted Combustion [FEC]]()
 
 #### Required for
 
@@ -691,6 +696,7 @@
 * [Fix Note icon for SkyUI (SKSE64 plugin)]()
 * [Better Container Controls for SkyUI]()
 * [Wider MCM Menu for SkyUI]()
+* [MCM Helper]()
 
 ### [SkyUI SE - Flashing Savegames Fix](https://www.nexusmods.com/skyrimspecialedition/mods/20406)
 
@@ -807,6 +813,21 @@
 #### Requires
 
 * [RaceMenu]()
+
+### [MCM Helper](https://www.nexusmods.com/skyrimspecialedition/mods/53000)
+
+#### Actions
+
+* Download, install and enable ["MCM Helper SE (1.5.97 BACKPORT)" file](https://www.nexusmods.com/skyrimspecialedition/mods/53000?tab=files&file_id=322447&nmm=1)
+
+#### Requires
+
+* [Address Library for SKSE Plugins]()
+* [SkyUI]()
+
+#### Required for
+
+* [Frozen Electrocuted Combustion [FEC]]()
 
 ## Gameplay
 
@@ -1105,10 +1126,6 @@
 #### Requires
 
 * [Quaint Raven Rock - SE]()
-
-#### Comments
-
-* Has a patch for [Embers XD]()
 
 ### [Unique Border Gates SE](https://www.nexusmods.com/skyrimspecialedition/mods/4819)
 
@@ -1612,3 +1629,121 @@
 #### Requires
 
 * [Unofficial Skyrim Special Edition Patch]()
+
+## Effects and shaders
+
+### [Realistic Skin And Hair Shaders - Giants](https://www.nexusmods.com/skyrimspecialedition/mods/15511)
+
+#### Actions
+
+* Download, install and enable ["Realistic Skin and Hair Shaders - Giants" file](https://www.nexusmods.com/skyrimspecialedition/mods/15511?tab=files&file_id=54950&nmm=1)
+
+#### Required for
+
+* [Frozen Electrocuted Combustion [FEC]]()
+
+### [Realistic Skin Shaders - Falmer and Hagravens](https://www.nexusmods.com/skyrimspecialedition/mods/16310)
+
+#### Actions
+
+* Download, install and enable ["Realistic Skin Shaders- Falmer and Hagraven" file](https://www.nexusmods.com/skyrimspecialedition/mods/16310?tab=files&file_id=222330&nmm=1)
+
+#### Required for
+
+* [Frozen Electrocuted Combustion [FEC]]()
+
+### [Frozen Electrocuted Combustion [FEC]](https://www.nexusmods.com/skyrimspecialedition/mods/3532)
+
+#### Actions
+
+* Download, install and enable ["Frozen Electrocuted Combustion" file](https://www.nexusmods.com/skyrimspecialedition/mods/3532?tab=files&file_id=282674&nmm=1). Choose "SSE v1.5.97 ("Special Edition")" option in FOMOD
+
+#### Requires
+
+* [Address Library for SKSE Plugins]()
+* [powerofthree's Tweaks]()
+* [powerofthree's Papyrus Extender]()
+* [MCM Helper]()
+* [Realistic Skin And Hair Shaders - Giants]()
+* [Realistic Skin Shaders - Falmer and Hagravens]()
+
+### [Splashes Of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/47710)
+
+#### Actions
+
+* Download, install and enable ["Splashes of Skyrim" file](https://www.nexusmods.com/skyrimspecialedition/mods/47710?tab=files&file_id=322517&nmm=1). Choose "SSE v1.5.97 ("Special Edition")" option in FOMOD
+
+#### Requires
+
+* [Address Library for SKSE Plugins]()
+
+### [Improved Weapon Impact EFFECTS Correct Metal SE](https://www.nexusmods.com/skyrimspecialedition/mods/8936)
+
+#### Actions
+
+* Download, install and enable ["Sparkles" file](https://www.nexusmods.com/skyrimspecialedition/mods/8936?tab=files&file_id=22636&nmm=1)
+
+### [Improved Sparks](https://www.nexusmods.com/skyrimspecialedition/mods/19831)
+
+#### Actions
+
+* Download, install and enable ["Grindstones - 10X Sparks" file](https://www.nexusmods.com/skyrimspecialedition/mods/19831?tab=files&file_id=186525&nmm=1)
+* Download, install and enable ["Impact Effects - 2X Sparks" file](https://www.nexusmods.com/skyrimspecialedition/mods/19831?tab=files&file_id=186529&nmm=1)
+
+### [Volcanic Tundra - Heat Wave Effects](https://www.nexusmods.com/skyrimspecialedition/mods/13749)
+
+#### Actions
+
+* Download, install and enable ["Volcanic Tundra and Steam Heat Haze" file](https://www.nexusmods.com/skyrimspecialedition/mods/13749?tab=files&file_id=39801&nmm=1)
+
+### [No More Ugly Effects SE](https://www.nexusmods.com/skyrimspecialedition/mods/16346)
+
+#### Actions
+
+* Download, install and enable ["No More Ugly Effects SE" file](https://www.nexusmods.com/skyrimspecialedition/mods/16346?tab=files&file_id=50892&nmm=1)
+
+### [Dust Effects by HHaleyy](https://www.nexusmods.com/skyrimspecialedition/mods/2407)
+
+#### Actions
+
+* Download, install and enable ["DustEffectsSSE" file](https://www.nexusmods.com/skyrimspecialedition/mods/2407?tab=files&file_id=3274&nmm=1)
+
+### [Deadly Spell Impacts](https://www.nexusmods.com/skyrimspecialedition/mods/12939)
+
+#### Actions
+
+* Download, install and enable ["Deadly Spell Impacts v1_70" file](https://www.nexusmods.com/skyrimspecialedition/mods/12939?tab=files&file_id=36481&nmm=1). Choose "Default" option in FOMOD
+
+### [Ultimate HD Fire Effects SSE](https://www.nexusmods.com/skyrimspecialedition/mods/20654)
+
+#### Actions
+
+* Download, install and enable ["Ultimate HD Fire Effects SSE - Medium Resolution 1.3" file](https://www.nexusmods.com/skyrimspecialedition/mods/20654?tab=files&file_id=235216&nmm=1)
+* Download, install and enable ["Ultimate HD Candle Flames SSE 1.4 (Re-Up)" file](https://www.nexusmods.com/skyrimspecialedition/mods/20654?tab=files&file_id=287636&nmm=1)
+
+### [Arctic - Frost Effects Redux](https://www.nexusmods.com/skyrimspecialedition/mods/29817)
+
+#### Actions
+
+* Download, install and enable ["Arctic - Frost Effects Redux" file](https://www.nexusmods.com/skyrimspecialedition/mods/29817?tab=files&file_id=316576&nmm=1). Choose the following options in FOMOD:
+  * "Arctic Add-ons" page:
+    * "ENB Light Compatibility" section:
+      * Choose "No ENB Light" option
+  * "Arctic Textures Resolution" page:
+    * "Resolution Options" section:
+      * Choose "1x" option
+  * "Arctic Frost Color" page:
+    * "Color Options" section:
+      * Choose "Realistic Hue" option
+  * "Arctic Icecles Size" page:
+    * "Size Options" section:
+      * Choose "x1" option
+  * "Arctic Optional Plugin" page:
+    * "Plugin Option" section:
+      * Choose "Frost Meshes Patch (ESL-Tagged)" option
+
+### [Voltage](https://www.nexusmods.com/skyrimspecialedition/mods/15565)
+
+#### Actions
+
+* Download, install and enable ["Voltage 2K" file](https://www.nexusmods.com/skyrimspecialedition/mods/15565?tab=files&file_id=52703&nmm=1)
