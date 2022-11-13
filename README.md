@@ -132,6 +132,7 @@
 * [Trade and Barter]()
 * [Use Telekinesis on Traps]()
 * [Skyrim Landscape and Water Fixes]()
+* [Enhanced Lighting for ENB (ELE) - Special Edition]()
 
 ### [Landscape Fixes For Grass Mods](https://www.nexusmods.com/skyrimspecialedition/mods/9005)
 
@@ -263,7 +264,7 @@
 
 #### Comments
 
-* Enchantment cost fix is included
+* Includes "Enchantment Cost Fix"
 
 ### [Wiseman303's Flora Fixes - Revamped](https://www.nexusmods.com/skyrimspecialedition/mods/28197)
 
@@ -275,7 +276,7 @@
 
 #### Comments
 
-* Flora respawn Fix is included
+* Includes "Flora Respawn Fix"
 
 ### [Spiders of Solstheim - Transparency Fix](https://www.nexusmods.com/skyrimspecialedition/mods/60012)
 
@@ -422,7 +423,7 @@
 
 #### Comments
 
-* Has SPID patch
+* Has a patch for [Spell Perk Item Distributor (SPID)]()
 
 ### [Lock Related Loot](https://www.nexusmods.com/skyrimspecialedition/mods/11342)
 
@@ -854,10 +855,6 @@
 
 * [Unofficial Skyrim Special Edition Patch]()
 
-#### Comments
-
-* Should come before [Adamant - A Perk Overhaul]()
-
 ### [Aetherius - A Race Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26686)
 
 #### Actions
@@ -919,10 +916,6 @@
 
 * Download, install and enable ["Manbeast - A Werewolf Overhaul" file](https://www.nexusmods.com/skyrimspecialedition/mods/44746?tab=files&file_id=248514&nmm=1)
 
-#### Comments
-
-* Should come after [Mortal Enemies]()
-
 ### [Sacrosanct - Vampires of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/3928)
 
 #### Actions
@@ -934,10 +927,6 @@
 #### Actions
 
 * Download, install and enable ["Immersive World Encounters SE" file](ition/mods/18330?tab=files&file_id=249072&nmm=1). Do not check anything in FOMOD
-
-#### Comments
-
-* Enable the patch when [Open Cities]() mod is installed
 
 ### [Ars Metallica - Smithing Enhancement](https://www.nexusmods.com/skyrimspecialedition/mods/321)
 
@@ -1003,10 +992,6 @@
 #### Actions
 
 * Download, install and enable ["Improved College Entry" file](https://www.nexusmods.com/skyrimspecialedition/mods/22184?tab=files&file_id=165417&nmm=1)
-
-#### Comments
-
-* Should come after [Weapons Armor Clothing and Clutter Fixes]()
 
 ### [Relationship Dialogue Overhaul - RDO SE](https://www.nexusmods.com/skyrimspecialedition/mods/1187)
 
@@ -1123,7 +1108,6 @@
 
 #### Comments
 
-* Has a patch for [Snazzy Furniture and Clutter Overhaul]()
 * Has a patch for [Embers XD]()
 
 ### [Unique Border Gates SE](https://www.nexusmods.com/skyrimspecialedition/mods/4819)
@@ -1474,6 +1458,10 @@
   * "Alternate Textures" page:
     * Choose "None" option
 
+#### Comments
+
+* Includes "Modern Brawl Bug Fix"
+
 ### [RUSTIC CLOTHING - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/4703)
 
 #### Actions
@@ -1577,3 +1565,34 @@
 #### Actions
 
 * Download, install and enable ["Water Effects Brightness and Reflection Fix" file](https://www.nexusmods.com/skyrimspecialedition/mods/63862?tab=files&file_id=328036&nmm=1)
+
+## Weather and lighting
+
+### [RAID Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/63116)
+
+#### Actions
+
+* Download, install and enable ["RAID Weathers" file](https://www.nexusmods.com/skyrimspecialedition/mods/63116?tab=files&file_id=302153&nmm=1)
+
+#### Comments
+
+* Installed because it works perfectly with [Realistic AI Detection (RAID)]() for stelth gameplay
+* Has a patch for [Audio Overhaul Skyrim]()
+* Has a patch for [Sounds of Skyrim]()
+
+### [Wonders of Weather](https://www.nexusmods.com/skyrimspecialedition/mods/13044)
+
+#### Actions
+
+* Download, install and enable ["Wonders of Weather v1_10" file](https://www.nexusmods.com/skyrimspecialedition/mods/13044?tab=files&file_id=36936&nmm=1). Not necessary to choose anything in FOMOD
+
+### [Enhanced Lighting for ENB (ELE) - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/1377)
+
+#### Actions
+
+* Download, install and enable ["ELE - SE v1.2.2" file](https://www.nexusmods.com/skyrimspecialedition/mods/1377?tab=files&file_id=73990&nmm=1)
+* Download, install and enable ["ELE SE - Cutting Room Floor patch" file](https://www.nexusmods.com/skyrimspecialedition/mods/1377?tab=files&file_id=111826&nmm=1)
+
+#### Requires
+
+* [Unofficial Skyrim Special Edition Patch]()
