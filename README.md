@@ -33,9 +33,7 @@
 * [moreHUD SE]()
 * [moreHUD Inventory Edition]()
 * [I'm Walkin' Here]()
-* [MCM Helper]()
 * [Thaumaturgy - An Enchanting Overhaul]()
-* [Frozen Electrocuted Combustion [FEC]]()
 * [Splashes Of Skyrim]()
 
 ### [SSE Engine Fixes (skse64 plugin)](https://www.nexusmods.com/skyrimspecialedition/mods/17230)
@@ -92,7 +90,6 @@
 
 * [powerofthree's Papyrus Extender]()
 * [Base Object Swapper]()
-* [Frozen Electrocuted Combustion [FEC]]()
 
 ### [Equip Enchantment Fix](https://www.nexusmods.com/skyrimspecialedition/mods/42839)
 
@@ -134,6 +131,8 @@
 * [Cutting Room Floor - SSE]()
 * [All Thieves Guild Jobs Concurrently]()
 * [Harvest Overhaul Redone]()
+* [Even Better Quest Objectives SE - EBQO SE]()
+* [Finding Derkeethus]()
 * [Trade and Barter]()
 * [Use Telekinesis on Traps]()
 * [Skyrim Landscape and Water Fixes]()
@@ -322,7 +321,7 @@
 
 #### Actions
 
-* Download, install and enable ["Papyrus Extender" file](https://www.nexusmods.com/skyrimspecialedition/mods/22854?tab=files&file_id=324071&nmm=1)
+* Download, install and enable ["Papyrus Extender" file](https://www.nexusmods.com/skyrimspecialedition/mods/22854?tab=files&file_id=332249&nmm=1)
 
 #### Requires
 
@@ -331,7 +330,6 @@
 * [Pickpocket Everyone - Steal from Any Creature]()
 * [Use Telekinesis on Traps]()
 * [Dynamic Things Alternative - Base Object Swapper]()
-* [Frozen Electrocuted Combustion [FEC]]()
 * [Skyrim Unbound Reborn (Alternate Start)]()
 
 #### Required for
@@ -415,7 +413,7 @@
 
 #### Actions
 
-* Download, install and enable ["Sound Record Distributor" file](https://www.nexusmods.com/skyrimspecialedition/mods/77815?tab=files&file_id=331215&nmm=1)
+* Download, install and enable ["Sound Record Distributor" file](https://www.nexusmods.com/skyrimspecialedition/mods/77815?tab=files&file_id=332142&nmm=1)
 
 #### Requires
 
@@ -637,6 +635,48 @@
 
 * [Unofficial Skyrim Special Edition Patch]()
 
+### [Even Better Quest Objectives SE - EBQO SE](https://www.nexusmods.com/skyrimspecialedition/mods/159)
+
+#### Actions
+
+* Download, install and enable ["Even Better Quest Objectives SE v1.9.2" file](https://www.nexusmods.com/skyrimspecialedition/mods/159?tab=files&file_id=311685&nmm=1). Choose the following options in FOMOD:
+  * "Mod Options" page:
+    * "Mod Version" section:
+      * Choose "EBQO with USSEP" option
+    * "Optional Files" section:
+      * Check "Dark Brotherhood Forever to Miscellaneous Quests" option
+  * "Grouped Mod Patches" page:
+    * "Book Patches" section:
+      * Choose "None" option
+    * "Paarthurnax Patches" section:
+      * Choose "None" option
+  * "Individual Mod Patches" page:
+    * "Available Patches" section:
+      * Check "Cutting Room Floor (by Arthmoor)" option
+
+#### Requires
+
+* [Unofficial Skyrim Special Edition Patch]()
+
+### [Quest Markers Restored](https://www.nexusmods.com/skyrimspecialedition/mods/20195)
+
+#### Actions
+
+* Download, install and enable ["Quest Markers Restored" file](https://www.nexusmods.com/skyrimspecialedition/mods/20195?tab=files&file_id=89835&nmm=1)
+
+### [Finding Derkeethus](https://www.nexusmods.com/skyrimspecialedition/mods/19550)
+
+#### Actions
+
+* Download, install and enable ["Finding Derkeethus" file](https://www.nexusmods.com/skyrimspecialedition/mods/19550?tab=files&file_id=77823&nmm=1). Choose the following options in FOMOD:
+  * "Select Options" page:
+    * "Objective Patches" section:
+      * Choose "EBQO - No Markers" option
+
+#### Requires
+
+* [Unofficial Skyrim Special Edition Patch]()
+
 ## User interface
 
 ### [More Informative Console](https://www.nexusmods.com/skyrimspecialedition/mods/19250)
@@ -715,7 +755,6 @@
 * [Fix Note icon for SkyUI (SKSE64 plugin)]()
 * [Better Container Controls for SkyUI]()
 * [Wider MCM Menu for SkyUI]()
-* [MCM Helper]()
 * [Skyrim Unbound Reborn (Alternate Start)]()
 
 ### [SkyUI SE - Flashing Savegames Fix](https://www.nexusmods.com/skyrimspecialedition/mods/20406)
@@ -834,21 +873,6 @@
 
 * [RaceMenu]()
 
-### [MCM Helper](https://www.nexusmods.com/skyrimspecialedition/mods/53000)
-
-#### Actions
-
-* Download, install and enable ["MCM Helper SE (1.5.97 BACKPORT)" file](https://www.nexusmods.com/skyrimspecialedition/mods/53000?tab=files&file_id=322447&nmm=1)
-
-#### Requires
-
-* [Address Library for SKSE Plugins]()
-* [SkyUI]()
-
-#### Required for
-
-* [Frozen Electrocuted Combustion [FEC]]()
-
 ## Gameplay
 
 ### [Skyrim Skill Uncapper](https://www.nexusmods.com/skyrimspecialedition/mods/8889)
@@ -922,6 +946,7 @@
 #### Required for
 
 * [Adamant - A Perk Overhaul]()
+* [Deadly Spell Impacts for Mysticism]()
 
 ### [Adamant - A Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30191)
 
@@ -995,16 +1020,6 @@
 #### Requires
 
 * [Crime Overhaul]()
-
-### [NARC Remade - No Animals Report Crimes for Skyrim SE](https://www.nexusmods.com/skyrimspecialedition/mods/17946)
-
-#### Actions
-
-* Download, install and enable ["NARC Remade 1.1.0" file](https://www.nexusmods.com/skyrimspecialedition/mods/17946?tab=files&file_id=324436&nmm=1). Choose the following in FOMOD:
-  * "Select core file" page:
-    * Choose "NARC" option
-  * "Select patches" page:
-    * Make sure nothing is checked
 
 ### [Mum's the Word](https://www.nexusmods.com/skyrimspecialedition/mods/27713)
 
@@ -1167,8 +1182,11 @@
 
 #### Actions
 
-* Download, install and enable ["Convenient Bridges - Useless Bridges Remover" file](https://www.nexusmods.com/skyrimspecialedition/mods/28898?tab=files&file_id=106292&nmm=1)
 * Download, install and enable ["Convenient Bridges - USSEP Patch" file](https://www.nexusmods.com/skyrimspecialedition/mods/28898?tab=files&file_id=106291&nmm=1)
+
+#### Comments
+
+* ["Convenient Bridges - Useless Bridges Remover" file](https://www.nexusmods.com/skyrimspecialedition/mods/28898?tab=files&file_id=106292&nmm=1) is not used to keep compatibility with the [Lanterns Of Skyrim II]() mod's patch
 
 #### Requires
 
@@ -1223,7 +1241,7 @@
 
 #### Actions
 
-* Download, install and enable ["Interesting NPCs and WACCF Outfits Patch" file](https://www.nexusmods.com/skyrimspecialedition/mods/31858?tab=files&file_id=120144&nmm=1)
+* Download, install and enable ["Interesting NPCs and WACCF Outfits Patch" file](https://www.nexusmods.com/skyrimspecialedition/mods/31858?tab=files&file_id=120144&nmm=1). Put it before "Interesting NPCs SE - Cutting Room Floor SSE Patch" one
 
 ### [Lanterns Of Skyrim II]() patches
 
@@ -1356,6 +1374,12 @@
 #### Requires
 
 * [Base Object Swapper]()
+
+### [Icy Windhelm](https://www.nexusmods.com/skyrimspecialedition/mods/55329)
+
+#### Actions
+
+* Download, install and enable ["Icy Windhelm" file](https://www.nexusmods.com/skyrimspecialedition/mods/55329?tab=files&file_id=331223&nmm=1)
 
 ### [Windhelm Fence 3D](https://www.nexusmods.com/skyrimspecialedition/mods/65346)
 
@@ -1628,6 +1652,109 @@
 
 * Download, install and enable ["Water Effects Brightness and Reflection Fix" file](https://www.nexusmods.com/skyrimspecialedition/mods/63862?tab=files&file_id=328036&nmm=1)
 
+### [Icy Mesh Remaster - Ice Glaciers - LOD - Caves](https://www.nexusmods.com/skyrimspecialedition/mods/73381)
+
+#### Actions
+
+* Download, install and enable ["Icy Mesh Remaster" file](https://www.nexusmods.com/skyrimspecialedition/mods/73381?tab=files&file_id=331233&nmm=1). Choose the following options in FOMOD:
+  * "Essentials" page:
+    * "Mesh Quality" section:
+      * Choose "High Poly Consistency" option
+    * "LOD" section:
+      * Choose "Low Poly" option
+    * "Caves" section:
+      * Choose "None" option
+    * "Plugins" section:
+      * Check "IcyFixes" option
+  * "Patches Tamriel" page:
+    * "Just Ice" section:
+      * Choose "None" option
+    * "Skyrim Remastered - Glaciers and Ice" section:
+      * Choose "None" option
+    * "RIS - Real Ice and Snow" section:
+      * Choose "None" option
+  * "Patches Forgotten Valley" page:
+    * "Just Ice" section:
+      * Choose "None" option
+    * "Skyrim Remastered - Glaciers and Ice" section:
+      * Choose "None" option
+    * "RIS - Real Ice and Snow" section:
+      * Choose "RIS - Real Ice and Snow" option
+  * "LOD Patches" page:
+    * "Patches" section:
+      * Choose "RIS" option
+* Put "IcyFixes.esm" below the lowest ESP-ESL file (bold italic)
+
+### [RIS - Real Ice and Snow](https://www.nexusmods.com/skyrimspecialedition/mods/1484)
+
+#### Actions
+
+* Download, install and enable ["RIS - Real Ice and Snow" file](https://www.nexusmods.com/skyrimspecialedition/mods/1484?tab=files&file_id=186431&nmm=1)
+* Download, install and enable ["RIS - Ice Mesh Remaster Textures" file](https://www.nexusmods.com/skyrimspecialedition/mods/1484?tab=files&file_id=308280&nmm=1)
+
+### [Tempered Skins for Males - Vanilla and SOS versions](https://www.nexusmods.com/skyrimspecialedition/mods/7902)
+
+#### Actions
+
+* Download, install and enable ["Tempered Skins for Males - Dressed Version" file](https://www.nexusmods.com/skyrimspecialedition/mods/7902?tab=files&file_id=162982&nmm=1). Choose the following options in FOMOD:
+  * "A - Main files" page:
+    * Choose "A3 - Underwear II" option
+  * "B - Body diffuse options" page:
+    * Choose "B1 - Clean hairless" option
+  * "C - Body normal options" page:
+    * Choose "C2 - Natural" option
+  * "D - Face diffuse options" page:
+    * Choose "D1 - Younger" option
+  * "E - Face normal options" page:
+    * Choose "E1 - Smooth" option
+  * "F - Facemarks (not necessary)" page:
+    * "Scars" section:
+      * Check nothing
+    * "Male tintmasks" section:
+      * Choose "F2 - Male tintmasks by Xenius in 2K" option
+    * "Beast tintmasks" section:
+      * Choose "F3 - Beast tintmasks by Xenius in 2K" option
+
+### [Tempered Skins for Females - UNP CBBE and Vanilla](https://www.nexusmods.com/skyrimspecialedition/mods/8505)
+
+#### Actions
+
+* Download, install and enable ["Tempered Skins for Females" file](https://www.nexusmods.com/skyrimspecialedition/mods/8505?tab=files&file_id=123402&nmm=1). Choose the following options in FOMOD:
+  * "A - Body type" page:
+    * "Body type" section:
+      * Choose "A8 - Vanilla" option
+  * "B - Body diffuse options" page:
+    * "Body diffuse options" section:
+      * Choose "B01 - Clean, shaved, no scars" option
+  * "C - Body normal options" page:
+    * "Body normal options" section:
+      * Choose "C2 - Fit" option
+  * "D - Face diffuse options" page:
+    * "Face diffuse options" section:
+      * Choose "D1 - Younger" option
+  * "E - Face normal options" page:
+    * "Face normal options" section:
+      * Choose "E1 - Smoother" option
+  * "F - Facemarks (not necessary)" page:
+    * "Scars" section:
+      * Check nothing
+    * "Female tintmasks by Xenius" section:
+      * Choose "F2 - 2K resolution" option
+
+#### Required for
+
+* [Vanilla Body with UNP Textures]()
+
+### [Vanilla Body with UNP Textures](https://www.nexusmods.com/skyrimspecialedition/mods/20517)
+
+#### Actions
+
+* Download, install and enable ["Vanilla Body with UNP Textures" file](https://www.nexusmods.com/skyrimspecialedition/mods/20517?tab=files&file_id=157116&nmm=1)
+
+#### Requires
+
+* [Tempered Skins for Females - UNP CBBE and Vanilla]() - [Vanilla Body with UNP Textures]() fixes some issues there
+
 ## Audio and music
 
 ### [Unofficial High Definition Audio Project](https://www.nexusmods.com/skyrimspecialedition/mods/18115)
@@ -1658,7 +1785,12 @@
 
 #### Actions
 
-* Download, install and enable ["Audio Overhaul Skyrim (3.9.1)" file](https://www.nexusmods.com/skyrimspecialedition/mods/12466?tab=files&file_id=330183&nmm=1)
+* Download, install and enable ["Audio Overhaul Skyrim (4.0.1)" file](https://www.nexusmods.com/skyrimspecialedition/mods/12466?tab=files&file_id=332351&nmm=1). Choose the following options in FOMOD:
+  * "Audio Overhaul for Skyrim (4.0.0)" page:
+    * "Conflict Resoltion" section:
+      * Check "Enhanced Blood Textures" option
+    * "Consistency Plugins" section:
+      * Check nothing
 
 #### Requires
 
@@ -1757,7 +1889,7 @@
 
 #### Comments
 
-* Installed because it works perfectly with [Realistic AI Detection (RAID)]() for stelth gameplay
+* Installed because it works perfectly with [Realistic AI Detection (RAID)]() for stealth gameplay
 
 ### [Wonders of Weather](https://www.nexusmods.com/skyrimspecialedition/mods/13044)
 
@@ -1777,41 +1909,6 @@
 * [Unofficial Skyrim Special Edition Patch]()
 
 ## Effects and shaders
-
-### [Realistic Skin And Hair Shaders - Giants](https://www.nexusmods.com/skyrimspecialedition/mods/15511)
-
-#### Actions
-
-* Download, install and enable ["Realistic Skin and Hair Shaders - Giants" file](https://www.nexusmods.com/skyrimspecialedition/mods/15511?tab=files&file_id=54950&nmm=1)
-
-#### Required for
-
-* [Frozen Electrocuted Combustion [FEC]]()
-
-### [Realistic Skin Shaders - Falmer and Hagravens](https://www.nexusmods.com/skyrimspecialedition/mods/16310)
-
-#### Actions
-
-* Download, install and enable ["Realistic Skin Shaders- Falmer and Hagraven" file](https://www.nexusmods.com/skyrimspecialedition/mods/16310?tab=files&file_id=222330&nmm=1)
-
-#### Required for
-
-* [Frozen Electrocuted Combustion [FEC]]()
-
-### [Frozen Electrocuted Combustion [FEC]](https://www.nexusmods.com/skyrimspecialedition/mods/3532)
-
-#### Actions
-
-* Download, install and enable ["Frozen Electrocuted Combustion" file](https://www.nexusmods.com/skyrimspecialedition/mods/3532?tab=files&file_id=282674&nmm=1). Choose "SSE v1.5.97 ("Special Edition")" option in FOMOD
-
-#### Requires
-
-* [Address Library for SKSE Plugins]()
-* [powerofthree's Tweaks]()
-* [powerofthree's Papyrus Extender]()
-* [MCM Helper]()
-* [Realistic Skin And Hair Shaders - Giants]()
-* [Realistic Skin Shaders - Falmer and Hagravens]()
 
 ### [Splashes Of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/47710)
 
@@ -1860,6 +1957,17 @@
 
 * Download, install and enable ["Deadly Spell Impacts v1_70" file](https://www.nexusmods.com/skyrimspecialedition/mods/12939?tab=files&file_id=36481&nmm=1). Choose "Default" option in FOMOD
 
+### [Deadly Spell Impacts for Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/71724)
+
+#### Actions
+
+* Download, install and enable ["Deadly Spell Impacts - Mysticism" file](https://www.nexusmods.com/skyrimspecialedition/mods/71724?tab=files&file_id=300447&nmm=1)
+
+#### Requires
+
+* [Mysticism - A Magic Overhaul]()
+* [Deadly Spell Impacts]()
+
 ### [Ultimate HD Fire Effects SSE](https://www.nexusmods.com/skyrimspecialedition/mods/20654)
 
 #### Actions
@@ -1900,7 +2008,7 @@
 
 #### Actions
 
-* Download, install and enable ["Compatibility Patch for Enhanced Blood Textures" file](https://www.nexusmods.com/skyrimspecialedition/mods/12466?tab=files&file_id=143478&nmm=1)
+* Put "AOS_EBT Patch.esp" file at the end of the existing load order
 * Download, install and enable ["RAID Weathers - Audio Overhaul Skyrim patch" file](https://www.nexusmods.com/skyrimspecialedition/mods/63116?tab=files&file_id=302160&nmm=1) of [RAID Weathers]() mod
 
 #### Requires
@@ -1911,13 +2019,16 @@
 
 #### Actions
 
-* Download, install and enable ["ISC Weapons Armor Clothing and Clutter Fixes (WACCF) Patch" file](https://www.nexusmods.com/skyrimspecialedition/mods/2951?tab=files&file_id=221875&nmm=1)
 * Download, install and enable ["ISC Mysticism - A Magic Overhaul Patch" file](https://www.nexusmods.com/skyrimspecialedition/mods/2951?tab=files&file_id=207412&nmm=1)
-* Download, install and enable ["ISC Enhanced Blood Textures Patch" file](https://www.nexusmods.com/skyrimspecialedition/mods/2951?tab=files&file_id=4512&nmm=1)
 
 #### Requires
 
 * [Immersive Sounds - Compendium]()
+
+#### Comments
+
+* ["ISC Weapons Armor Clothing and Clutter Fixes (WACCF) Patch" file](https://www.nexusmods.com/skyrimspecialedition/mods/2951?tab=files&file_id=221875&nmm=1) is not used because [lilebonymace's patches and xEdit scripts]() already has it, and it's newer
+* ["ISC Enhanced Blood Textures Patch" file](https://www.nexusmods.com/skyrimspecialedition/mods/2951?tab=files&file_id=4512&nmm=1) is not used because [lilebonymace's patches and xEdit scripts]() already has it, and it's newer, and also covers [Audio Overhaul for Skyrim SE]()
 
 ### [No BS AI Projectile Dodge (Magic and Arrows) - Immersive Projectiles Nondetection of](https://www.nexusmods.com/skyrimspecialedition/mods/1763)
 
@@ -1938,6 +2049,8 @@
 * Download, install and enable ["Skyrim Unbound Reborn" file](https://www.nexusmods.com/skyrimspecialedition/mods/27962?tab=files&file_id=331018&nmm=1). Choose the following options in FOMOD:
   * "SkyUILib (Required)" section:
     * Choose "Install SkyUILib" option
+  * "Options" section:
+    * Check nothing
   * "Patches" section:
     * Check the following options:
       * AOS - Audio Overhaul for Skyrim
@@ -1976,18 +2089,91 @@
 
 ## Patches
 
+### [kryptopyr's Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/19518)
+
+#### Actions
+
+* Download, install and enable ["kryptopyr's Patch Hub Installer" file](https://www.nexusmods.com/skyrimspecialedition/mods/19518?tab=files&file_id=300905&nmm=1). Choose the following options in FOMOD:
+  * "Mods" page:
+    * "Mods" section:
+      * Check the following options:
+        * WACCF - Weapons Armor Clothing and Clutter Fixes
+        * ACE - Armor and Clothing Extension
+        * IT - Improved Traps
+  * "Which versions of these mods do you have installed?" page:
+    * Make sure everything is unchecked/"None" is chosen
+  * "Weapons Armor Clothing and Clutter Fixes" page:
+    * "Patches" section:
+      * Check the following options:
+        * Ars Metallica
+        * Audio Overhaul for Skyrim
+        * Cutting Room Floor
+  * "Weapons Armor Clothing and Clutter Fixes - Combination Patches" page:
+    * "Thaumaturgy" section:
+      * Choose "WACCF and AMB" option
+    * Chose "None" in other sections
+  * "Armor and Clothing Extension" page:
+    * "Patches" section:
+      * Check "Immersive Sounds - Compendium" option
+  * "Improved Traps" page:
+    * "Patches" section:
+      * Check "Unofficial Material Fix" option
+
+### [lilebonymace's patches and xEdit scripts](https://www.nexusmods.com/skyrimspecialedition/mods/36042)
+
+#### Actions
+
+* Download, install and enable ["lilebonymace patches" file](https://www.nexusmods.com/skyrimspecialedition/mods/36042?tab=files&file_id=331457&nmm=1). Choose the following options in FOMOD:
+  * "[1/6] Patches - USSEP, WACCF, NARC" page:
+    * "WACCF" section:
+      * Check "Adamant" option
+  * "[2/6] Patches - AOS and ISC" page:
+    * "AOS" section:
+      * Check "Mortal Enemies" option
+    * "ISC" section:
+      * Check the following options:
+        * Arctic - Frost Meshes Patch
+        * Dawnguard + USSEP
+        * WACCF (Updated patch)
+    * "AOS + ISC" section:
+      * Check the following options:
+        * Deadly Spell Impacts
+        * Enhanced Blood Textures
+  * "[3/6] Patches - RDO, The Choice is Yours, Locked Chests Have Keys" page:
+    * "RDO" section:
+      * Check "Serana Dialogue Edit" option
+  * "[5/6] Patches - Other" page:
+    * "Misc" section:
+      * Check the following options:
+        * Adamant - Ars Metallica
+        * Deadly Spell Impacts - Mysticism
+  * "[6/6] Mod Fixes and Tweaks" page:
+    * Uncheck everything
+* For each patch, place it after the lowest mod it covers, taking the order, described on the patches collection mod's page, into account
+
 ### [QUASIPC - Qwinn's Unified Automated Self Installing Patch Compendium](https://www.nexusmods.com/skyrimspecialedition/mods/18369)
 
 #### Actions
 
-* Download, install and enable ["QUASIPC - Unified Patch Compendium v2_5_0" file](https://www.nexusmods.com/skyrimspecialedition/mods/18369?tab=files&file_id=91599&nmm=1). This mod automatically checks necessary compatibility patches, so just click "Next" button until the end
-* Delete `Qw_ELE_CRF Patch.esp` and `Qw_WACCF_ISC Patch.esp`
+* Download, install and enable ["QUASIPC - Unified Patch Compendium v2_5_0" file](https://www.nexusmods.com/skyrimspecialedition/mods/18369?tab=files&file_id=91599&nmm=1). Choose the following options in FOMOD:
+  * "USSEP 4.1.7 Patches" page:
+    * "Patches for USSEP" section:
+      * Check the following options:
+        * Patch for Interesting NPCs 3.4.2 + USSEP 4.1.7
+        * Patch for Skyrim Sizes Lore 2.1 + USSEP 4.1.7
+  * "Cutting Room Floor 3.1.3 Patches" page:
+    * "Patches for Cutting Room Floor" section:
+      * Check the following options:
+        * Patch for Armor and Clothing Extension 1.0 + CRF 3.1.3
+        * Patch for Immersive Sounds Compendium 2.2 + CRF 3.1.3
+      * Uncheck other options
+  * "Weapons Armor Clothing And Clutter Fixes Patches" page:
+    * Uncheck everything
+  * "Flora and Fauna Patches" page:
+    * "Patches for Ars Metallica" section:
+      * Check "Patch for Ars Metallica 2.0.4 + SMIM 2.08 Merged-All Version" option
+      * Uncheck other options
 * For each patch, place it after the lowest mod it covers
-
-#### Comments
-
-* `Qw_ELE_CRF Patch.esp` is removed because [Useless Patches Collection - Because who cares about conflict resolution and consistency]() already has it, and it's newer
-* `Qw_WACCF_ISC Patch.esp` is removed because [Immersive Sounds Compendium - PATCHES]() already has it, and it's newer
 
 ### [Useless Patches Collection - Because who cares about conflict resolution and consistency](https://www.nexusmods.com/skyrimspecialedition/mods/27667)
 
@@ -2009,7 +2195,6 @@
       * Check the following options:
         * Frankly HD Imperial Armors and Weapons
         * Quaint Raven Rock
-        * Cutting Room Floor
   * "Cutting Room Floor Patches" page:
     * "Plugin Type" section:
       * Check nothing
@@ -2026,17 +2211,7 @@
   * "Enhanced Lighting for ENB (ELE) Patches" page:
     * "Plugin Type" section:
       * Check nothing
-  * "Immersive Sounds - Compendium Patches" page:
-    * "Plugin Type" section:
-      * Check the following options:
-        * Arctic - Frost Effects Redux
   * "Extra Patches" page:
     * "Plugin Type" section:
       * Check nothing
 * For each patch, place it after the lowest mod it covers
-
-### Comments
-
-* [Quaint Raven Rock]() patch on the "Unofficial Skyrim Special Edition Patch Patches" page is not chosen because [Quaint Raven Rock Patch Collection]() already has it, and it's newer
-* [Enhanced Lighting for ENB (ELE)]() patch on the "Cutting Room Floor Patches" page is not chosen because [Enhanced Lighting for ENB (ELE)]() already has it, and it's newer
-* [Relationship Dialogue Overhaul - RDO SE]() patch on the "Cutting Room Floor Patches" page is not chosen because [Relationship Dialogue Overhaul - RDO SE]() already has it, and also takes [Unofficial Skyrim Special Edition Patch]() into account
