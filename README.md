@@ -190,10 +190,23 @@
 #### Actions
 
 * Download, install and enable ["Grass Control v8" file](https://www.nexusmods.com/skyrimspecialedition/mods/42161?tab=files&file_id=228283&nmm=1)
+* Generate the grass (see the description)
+* Make the following changes in `NetScriptFramework/Plugins/GrassControl.config.txt` file:
+  * Set `UseGrassCache` option to `True`
+  * Set `ExtendGrassDistance` option to `True`
+  * Set `OverwriteGrassDistance` option to `-1`
+  * Set `OverwriteGrassFadeRange` option to `-1`
+  * Set `OnlyLoadFromCache` option to `True`
 
 #### Requires
 
 * [.NET Script Framework]()
+
+### [High Hrothgar Fixed](https://www.nexusmods.com/skyrimspecialedition/mods/55254)
+
+#### Actions
+
+* Download, install and enable ["High Hrothgar Fixed" file](https://www.nexusmods.com/skyrimspecialedition/mods/55254?tab=files&file_id=227266&nmm=1)
 
 ### [Skyrim Fixes Collection](https://www.nexusmods.com/skyrimspecialedition/mods/38314)
 
@@ -677,6 +690,20 @@
 
 * [Unofficial Skyrim Special Edition Patch]()
 
+#### Required for
+
+* [Finding Derkeethus Duplicate FormID Fix]()
+
+### [Finding Derkeethus Duplicate FormID Fix](https://www.nexusmods.com/skyrimspecialedition/mods/46391)
+
+#### Actions
+
+* Download, install and enable ["Finding Derkeethus Duplicate FormID Fix" file](https://www.nexusmods.com/skyrimspecialedition/mods/46391?tab=files&file_id=188749&nmm=1)
+
+#### Requires
+
+* [Finding Derkeethus]()
+
 ## User interface
 
 ### [More Informative Console](https://www.nexusmods.com/skyrimspecialedition/mods/19250)
@@ -987,12 +1014,6 @@
 #### Actions
 
 * Download, install and enable ["Sacrosanct 5.17.0" file](https://www.nexusmods.com/skyrimspecialedition/mods/3928?tab=files&file_id=173876&nmm=1)
-
-### [Immersive World Encounters. FINAL SE](https://www.nexusmods.com/skyrimspecialedition/mods/18330)
-
-#### Actions
-
-* Download, install and enable ["Immersive World Encounters SE" file](ition/mods/18330?tab=files&file_id=249072&nmm=1). Do not check anything in FOMOD
 
 ### [Ars Metallica - Smithing Enhancement](https://www.nexusmods.com/skyrimspecialedition/mods/321)
 
@@ -1691,6 +1712,12 @@
 
 * Download, install and enable ["RIS - Real Ice and Snow" file](https://www.nexusmods.com/skyrimspecialedition/mods/1484?tab=files&file_id=186431&nmm=1)
 * Download, install and enable ["RIS - Ice Mesh Remaster Textures" file](https://www.nexusmods.com/skyrimspecialedition/mods/1484?tab=files&file_id=308280&nmm=1)
+
+### [JS Barenziah SE](https://www.nexusmods.com/skyrimspecialedition/mods/22990)
+
+#### Actions
+
+* Download, install and enable ["JS Barenziah SE - 2K Textures" file](https://www.nexusmods.com/skyrimspecialedition/mods/22990?tab=files&file_id=214237&nmm=1)
 
 ### [Tempered Skins for Males - Vanilla and SOS versions](https://www.nexusmods.com/skyrimspecialedition/mods/7902)
 
