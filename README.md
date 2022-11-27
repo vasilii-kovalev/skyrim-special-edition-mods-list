@@ -254,9 +254,9 @@
 
 #### Actions
 
-* Download, install and enable ["Navigator - Navmesh Fixes" file](https://www.nexusmods.com/skyrimspecialedition/mods/52641?tab=files&file_id=319552&nmm=1). Choose the following in FOMOD:
+* Download, install and enable ["Navigator - Navmesh Fixes" file](https://www.nexusmods.com/skyrimspecialedition/mods/52641?tab=files&file_id=319552&nmm=1). Choose the following options in FOMOD:
   * "All-in-one" section:
-    * Choose ".esl" option
+    * Select ".esl" option
 * Put `Navigator-NavFixes.esl` below the lowest ESP-ESL file (bold italic)
 * Download, install and enable ["Rift Watchtower NavFix" file](https://www.nexusmods.com/skyrimspecialedition/mods/52641?tab=files&file_id=216463&nmm=1). Install it as a separate mod (with a different name), so that it is convenient to enable/disable it if necessary
 
@@ -340,14 +340,14 @@
 
 * [Address Library for SKSE Plugins]()
 * [powerofthree's Tweaks]()
-* [Pickpocket Everyone - Steal from Any Creature]()
-* [Use Telekinesis on Traps]()
-* [Dynamic Things Alternative - Base Object Swapper]()
-* [Skyrim Unbound Reborn (Alternate Start)]()
 
 #### Required for
 
 * [Ethereal Immunity]()
+* [Pickpocket Everyone - Steal from Any Creature]()
+* [Use Telekinesis on Traps]()
+* [Dynamic Things Alternative - Base Object Swapper]()
+* [Skyrim Unbound Reborn (Alternate Start)]()
 
 ### [Ethereal Immunity](https://www.nexusmods.com/skyrimspecialedition/mods/69744)
 
@@ -535,11 +535,11 @@
 
 #### Actions
 
-* Download, install and enable ["Ash Pile Expiration SE Installer" file](https://www.nexusmods.com/skyrimspecialedition/mods/5710?tab=files&file_id=12752&nmm=1). Choose the following in FOMOD:
+* Download, install and enable ["Ash Pile Expiration SE Installer" file](https://www.nexusmods.com/skyrimspecialedition/mods/5710?tab=files&file_id=12752&nmm=1). Choose the following options in FOMOD:
   * "Time Interval Plugin" section:
-    * Choose "1 hour" option
-  * "BAS or Loose Script" section:
-    * Choose "BSA Archive" option
+    * Select "1 hour" option
+  * "BSA or Loose Script" section:
+    * Select "BSA Archive" option
 
 ### [Whose Quest Is It Anyway](https://www.nexusmods.com/skyrimspecialedition/mods/23581)
 
@@ -555,9 +555,9 @@
 
 #### Actions
 
-* Download, install and enable ["Unlimited Wood Chopping - Installer" file](https://www.nexusmods.com/skyrimspecialedition/mods/3336?tab=files&file_id=47414&nmm=1). Choose the following in FOMOD:
+* Download, install and enable ["Unlimited Wood Chopping - Installer" file](https://www.nexusmods.com/skyrimspecialedition/mods/3336?tab=files&file_id=47414&nmm=1). Choose the following options in FOMOD:
   * "Core Files" section:
-    * Choose "Default Amount (Two)" option
+    * Select "Default Amount (Two)" option
 
 ### [All Thieves Guild Jobs Concurrently](https://www.nexusmods.com/skyrimspecialedition/mods/14883)
 
@@ -607,7 +607,7 @@
 
 * Download, install and enable ["DFTA - Forceless Dawnbreaker Explosion By ColonelCorn 1.1" file](https://www.nexusmods.com/skyrimspecialedition/mods/17518?tab=files&file_id=208948&nmm=1)
 
-### [Pick up books simple - With weightless books option](link-to-mode-on-nexus)
+### [Pick up books simple - With weightless books option](https://www.nexusmods.com/skyrimspecialedition/mods/2453)
 
 #### Actions
 
@@ -633,12 +633,12 @@
 
 #### Actions
 
-* Download, install and enable ["HarvestOverhaul_Redone_AIO_Installer" file](https://www.nexusmods.com/skyrimspecialedition/mods/2398?tab=files&file_id=230540&nmm=1). Choose the following in FOMOD:
+* Download, install and enable ["HarvestOverhaul_Redone_AIO_Installer" file](https://www.nexusmods.com/skyrimspecialedition/mods/2398?tab=files&file_id=230540&nmm=1). Choose the following options in FOMOD:
   * "Main File / Optional File Selection" page:
     * "Main File" section:
       * Check "Creatures Module" option
     * "Optional" section:
-      * Choose "None" option
+      * Select "None" option
   * "Flora Respawn Fix" page:
     * Do not check "Flora Respawn Fix Compatibility" option
   * Patches" page:
@@ -655,14 +655,14 @@
 * Download, install and enable ["Even Better Quest Objectives SE v1.9.2" file](https://www.nexusmods.com/skyrimspecialedition/mods/159?tab=files&file_id=311685&nmm=1). Choose the following options in FOMOD:
   * "Mod Options" page:
     * "Mod Version" section:
-      * Choose "EBQO with USSEP" option
+      * Select "EBQO with USSEP" option
     * "Optional Files" section:
       * Check "Dark Brotherhood Forever to Miscellaneous Quests" option
   * "Grouped Mod Patches" page:
     * "Book Patches" section:
-      * Choose "None" option
+      * Select "None" option
     * "Paarthurnax Patches" section:
-      * Choose "None" option
+      * Select "None" option
   * "Individual Mod Patches" page:
     * "Available Patches" section:
       * Check "Cutting Room Floor (by Arthmoor)" option
@@ -684,7 +684,7 @@
 * Download, install and enable ["Finding Derkeethus" file](https://www.nexusmods.com/skyrimspecialedition/mods/19550?tab=files&file_id=77823&nmm=1). Choose the following options in FOMOD:
   * "Select Options" page:
     * "Objective Patches" section:
-      * Choose "EBQO - No Markers" option
+      * Select "EBQO - No Markers" option
 
 #### Requires
 
@@ -1173,11 +1173,11 @@
 
 #### Actions
 
-* Download, install and enable ["Quaint Raven Rock Patch Collection" file](https://www.nexusmods.com/skyrimspecialedition/mods/35290?tab=files&file_id=320102&nmm=1). Choose the following in FOMOD:
+* Download, install and enable ["Quaint Raven Rock Patch Collection" file](https://www.nexusmods.com/skyrimspecialedition/mods/35290?tab=files&file_id=320102&nmm=1). Choose the following options in FOMOD:
   * "Miscellaneous Patches" section:
     * Check "Unofficial Skyrim Special Edition Patch" option
   * "ELFX and Embers XD" section:
-    * Choose "None" option
+    * Select "None" option
 
 #### Requires
 
@@ -1217,7 +1217,7 @@
 
 #### Actions
 
-* Download, install and enable ["Lanterns Of Skyrim II - FOMOD" file](https://www.nexusmods.com/skyrimspecialedition/mods/30817?tab=files&file_id=275523&nmm=1). Choose the following in FOMOD:
+* Download, install and enable ["Lanterns Of Skyrim II - FOMOD" file](https://www.nexusmods.com/skyrimspecialedition/mods/30817?tab=files&file_id=275523&nmm=1). Choose the following options in FOMOD:
   * "Main Installation" page:
     * "Addons" section:
       * Check "LoS II - 3DNPC Addon" option
@@ -1308,13 +1308,13 @@
 
 #### Actions
 
-* Download, install and enable ["Skyrim Landscape and Water Fixes - FOMOD" file](https://www.nexusmods.com/skyrimspecialedition/mods/26138?tab=files&file_id=319064&nmm=1). Choose the following in FOMOD:
+* Download, install and enable ["Skyrim Landscape and Water Fixes - FOMOD" file](https://www.nexusmods.com/skyrimspecialedition/mods/26138?tab=files&file_id=319064&nmm=1). Choose the following options in FOMOD:
   * "Options" section:
     * Check "No ownership edits" option
-  * Patches section:
+  * "Patches" section:
     * Check "Landscape Fixes for Grass Mods" option
   * Walkway Wall FIX:
-    * Choose "SMIM" option
+    * Select "SMIM" option
 * Put `Landscape and Water Fixes.esp` below the lowest ESP-ESL file (bold italic)
 
 #### Requires
@@ -1496,7 +1496,7 @@
   * Run xEdit and load all the mods
   * Click on "Settlements Expanded" mod with the right mouse button
   * Click on the "Apply Script" menu option
-  * Choose "Blacksmith Forge Water Patch" in the list and click "OK" button
+  * Select "Blacksmith Forge Water Patch" in the list and click "OK" button
   * Give the patch a name (for example, "Settlements Expanded Blacksmith Forge Water Patch") and click "OK" button
   * Click "Exit xEdit" button
   * Check the created patch and click "OK" button
@@ -1518,11 +1518,11 @@
 
 * Download, install and enable ["Enhanced Ore Veins - 2K - 9.0.1" file](https://www.nexusmods.com/skyrimspecialedition/mods/1306?tab=files&file_id=246044&nmm=1). Choose the following options in FOMOD:
   * "Brightness" page:
-    * Choose "Normal" option
+    * Select "Normal" option
   * "Mined Ores" page:
-    * Choose "Install New Textures" option
+    * Select "Install New Textures" option
   * "Ingots" page:
-    * Choose "Install New Textures" option
+    * Select "Install New Textures" option
   * "Patches" page:
     * Check "Hearthfire" option
   * "Format" page:
@@ -1535,19 +1535,19 @@
 * Download, install and enable ["Enhanced Blood Textures" file](https://www.nexusmods.com/skyrimspecialedition/mods/2357?tab=files&file_id=249235&nmm=1). Choose the following options in FOMOD:
   * "Core Install" page:
     * "SPID Compatibility and Script Distance" section:
-      * Choose "Standard Install with Long Distance [default]" option
+      * Select "Standard Install with Long Distance [default]" option
     * "Blood Size (Optional)" section:
-      * Choose "Default Splatter Size" option
+      * Select "Default Splatter Size" option
     * "Wounds (Optional)" section:
-      * Choose "EBT - Default" option
+      * Select "EBT - Default" option
     * "Drips (Optional)" section:
-      * Choose "Default" option
+      * Select "Default" option
     * "Screen Blood" section:
-      * Choose "Default" option
+      * Select "Default" option
   * "Textures" page:
-    * Choose "Reduced Res / Default Color" option
+    * Select "Reduced Res / Default Color" option
   * "Alternate Textures" page:
-    * Choose "None" option
+    * Select "None" option
 
 #### Comments
 
@@ -1608,7 +1608,7 @@
 
 * Download, install and enable ["Frankly HD Nightingale Armor and Weapons 1.1" file](https://www.nexusmods.com/skyrimspecialedition/mods/18560?tab=files&file_id=59909&nmm=1). Choose options in FOMOD:
   * "Texteure Resolution" page:
-    * Choose "2K Resolution" option
+    * Select "2K Resolution" option
   * "Optionals" page:
     * Check "Less Saturated Weathering" and "Full glove" options
 
@@ -1618,7 +1618,7 @@
 
 * Download, install and enable ["Frankly HD Shrouded Armor _ 1.1" file](https://www.nexusmods.com/skyrimspecialedition/mods/18785?tab=files&file_id=61496&nmm=1). Choose the following options in FOMOD:
   * "Texteure Resolution" page:
-    * Choose "2K Resolution" option
+    * Select "2K Resolution" option
   * "Optionals" page:
     * Check nothing
 
@@ -1636,13 +1636,13 @@
 * Download, install and enable ["Dressed Hearthfire Doll" file](https://www.nexusmods.com/skyrimspecialedition/mods/493?tab=files&file_id=13540&nmm=1). Choose the following options in FOMOD:
   * "Choose install files" page:
     * "Select Face Type" section:
-      * Choose "Smaller eyes" option
+      * Select "Smaller eyes" option
   * "Install the dool body files" page:
     * "Select a doll body" section:
-      * Choose "0 (human)" option
+      * Select "0 (human)" option
   * "Install the one piece files" page:
     * "Select color of the doll's dress" section:
-      * Choose "Red" option
+      * Select "Red" option
 * Download, install and enable ["Decorative dolls and a strange doll" file](https://www.nexusmods.com/skyrimspecialedition/mods/493?tab=files&file_id=13541&nmm=1)
 
 ### [Simplicity of Snow](https://www.nexusmods.com/skyrimspecialedition/mods/56235)
@@ -1680,30 +1680,30 @@
 * Download, install and enable ["Icy Mesh Remaster" file](https://www.nexusmods.com/skyrimspecialedition/mods/73381?tab=files&file_id=331233&nmm=1). Choose the following options in FOMOD:
   * "Essentials" page:
     * "Mesh Quality" section:
-      * Choose "High Poly Consistency" option
+      * Select "High Poly Consistency" option
     * "LOD" section:
-      * Choose "Low Poly" option
+      * Select "Low Poly" option
     * "Caves" section:
-      * Choose "None" option
+      * Select "None" option
     * "Plugins" section:
       * Check "IcyFixes" option
   * "Patches Tamriel" page:
     * "Just Ice" section:
-      * Choose "None" option
+      * Select "None" option
     * "Skyrim Remastered - Glaciers and Ice" section:
-      * Choose "None" option
+      * Select "None" option
     * "RIS - Real Ice and Snow" section:
-      * Choose "None" option
+      * Select "None" option
   * "Patches Forgotten Valley" page:
     * "Just Ice" section:
-      * Choose "None" option
+      * Select "None" option
     * "Skyrim Remastered - Glaciers and Ice" section:
-      * Choose "None" option
+      * Select "None" option
     * "RIS - Real Ice and Snow" section:
-      * Choose "RIS - Real Ice and Snow" option
+      * Select "RIS - Real Ice and Snow" option
   * "LOD Patches" page:
     * "Patches" section:
-      * Choose "RIS" option
+      * Select "RIS" option
 * Put "IcyFixes.esm" below the lowest ESP-ESL file (bold italic)
 
 ### [RIS - Real Ice and Snow](https://www.nexusmods.com/skyrimspecialedition/mods/1484)
@@ -1725,22 +1725,22 @@
 
 * Download, install and enable ["Tempered Skins for Males - Dressed Version" file](https://www.nexusmods.com/skyrimspecialedition/mods/7902?tab=files&file_id=162982&nmm=1). Choose the following options in FOMOD:
   * "A - Main files" page:
-    * Choose "A3 - Underwear II" option
+    * Select "A3 - Underwear II" option
   * "B - Body diffuse options" page:
-    * Choose "B1 - Clean hairless" option
+    * Select "B1 - Clean hairless" option
   * "C - Body normal options" page:
-    * Choose "C2 - Natural" option
+    * Select "C2 - Natural" option
   * "D - Face diffuse options" page:
-    * Choose "D1 - Younger" option
+    * Select "D1 - Younger" option
   * "E - Face normal options" page:
-    * Choose "E1 - Smooth" option
+    * Select "E1 - Smooth" option
   * "F - Facemarks (not necessary)" page:
     * "Scars" section:
       * Check nothing
     * "Male tintmasks" section:
-      * Choose "F2 - Male tintmasks by Xenius in 2K" option
+      * Select "F2 - Male tintmasks by Xenius in 2K" option
     * "Beast tintmasks" section:
-      * Choose "F3 - Beast tintmasks by Xenius in 2K" option
+      * Select "F3 - Beast tintmasks by Xenius in 2K" option
 
 ### [Tempered Skins for Females - UNP CBBE and Vanilla](https://www.nexusmods.com/skyrimspecialedition/mods/8505)
 
@@ -1749,24 +1749,24 @@
 * Download, install and enable ["Tempered Skins for Females" file](https://www.nexusmods.com/skyrimspecialedition/mods/8505?tab=files&file_id=123402&nmm=1). Choose the following options in FOMOD:
   * "A - Body type" page:
     * "Body type" section:
-      * Choose "A8 - Vanilla" option
+      * Select "A8 - Vanilla" option
   * "B - Body diffuse options" page:
     * "Body diffuse options" section:
-      * Choose "B01 - Clean, shaved, no scars" option
+      * Select "B01 - Clean, shaved, no scars" option
   * "C - Body normal options" page:
     * "Body normal options" section:
-      * Choose "C2 - Fit" option
+      * Select "C2 - Fit" option
   * "D - Face diffuse options" page:
     * "Face diffuse options" section:
-      * Choose "D1 - Younger" option
+      * Select "D1 - Younger" option
   * "E - Face normal options" page:
     * "Face normal options" section:
-      * Choose "E1 - Smoother" option
+      * Select "E1 - Smoother" option
   * "F - Facemarks (not necessary)" page:
     * "Scars" section:
       * Check nothing
     * "Female tintmasks by Xenius" section:
-      * Choose "F2 - 2K resolution" option
+      * Select "F2 - 2K resolution" option
 
 #### Required for
 
@@ -1780,7 +1780,7 @@
 
 #### Requires
 
-* [Tempered Skins for Females - UNP CBBE and Vanilla]() - [Vanilla Body with UNP Textures]() fixes some issues there
+* [Tempered Skins for Females - UNP CBBE and Vanilla]() - this mod fixes some issues in that one
 
 ## Audio and music
 
@@ -1831,31 +1831,31 @@
 
 #### Actions
 
-* Download, install and enable ["Immersive Sounds Compendium 3.0" file](https://www.nexusmods.com/skyrimspecialedition/mods/523?tab=files&file_id=221873&nmm=1). Choose the following in FOMOD:
+* Download, install and enable ["Immersive Sounds Compendium 3.0" file](https://www.nexusmods.com/skyrimspecialedition/mods/523?tab=files&file_id=221873&nmm=1). Choose the following options in FOMOD:
   * "Melee Options" page:
     * "Weapon Impact Options" section:
-      * Choose "Less Intense" option
+      * Select "Less Intense" option
     * "Weapon Unarmed Impact Options" section:
-      * Choose "S'wit Fighter Turbo" option
+      * Select "S'wit Fighter Turbo" option
     * "Weapon Draw/Sheathe Options" section:
-      * Choose "Semi-Smooth Equip" option
+      * Select "Semi-Smooth Equip" option
   * "Ranged Weapons Options" page:
     * "Bow Shot Options" section:
-      * Choose "Realistic - Twangy" option
+      * Select "Realistic - Twangy" option
     * "Bow Pull Options" section:
-      * Choose "IS Default" option
+      * Select "IS Default" option
     * "Arrow Impact Options" section:
-      * Choose "Less Intense" option
+      * Select "Less Intense" option
   * "Bonus Weaponry Options Options" page:
     * "Extra Weaponry Options" section:
       * Check "Smooth Weapon Swings" and "Silent Arrow Projectile Loop" options
   * "Magic Options" page:
     * "Soul Trap Options" section:
-      * Choose "Soul Suck (No Gem Rattling)" option
+      * Select "Soul Suck (No Gem Rattling)" option
     * "Restoration Options" section:
-      * Choose "Vanilla" option
+      * Select "Vanilla" option
     * "Firebolt Options" section:
-      * Choose "Swooshy" option
+      * Select "Swooshy" option
   * "Creature Options" page:
     * "Creature Options" section:
       * Check the following options:
@@ -1864,7 +1864,7 @@
         * Sensible Storm Atronachs
   * "Misc Options" page:
     * "Nirnroot Options" section:
-      * Choose "High Fantasy" option
+      * Select "High Fantasy" option
 
 ### Required for
 
@@ -1889,7 +1889,7 @@
 * Download, install and enable ["Hypertrichosis -Werewolf Sounds Rework-" file](https://www.nexusmods.com/skyrimspecialedition/mods/49445?tab=files&file_id=241135&nmm=1). Choose the following options in FOMOD:
   * "Hypertrichosis -Alpha Extra Gore Edition-" page:
     * "Hypertrichosis" section:
-      * Choose "Hypertrichosis -Werewolf Sounds Rework-" option
+      * Select "Hypertrichosis -Werewolf Sounds Rework-" option
   * "Hypertrichosis -Moonlight Tales Mini Patch-" page:
     * Check nothing
 
@@ -2009,19 +2009,19 @@
 * Download, install and enable ["Arctic - Frost Effects Redux" file](https://www.nexusmods.com/skyrimspecialedition/mods/29817?tab=files&file_id=316576&nmm=1). Choose the following options in FOMOD:
   * "Arctic Add-ons" page:
     * "ENB Light Compatibility" section:
-      * Choose "No ENB Light" option
+      * Select "No ENB Light" option
   * "Arctic Textures Resolution" page:
     * "Resolution Options" section:
-      * Choose "1x" option
+      * Select "1x" option
   * "Arctic Frost Color" page:
     * "Color Options" section:
-      * Choose "Realistic Hue" option
+      * Select "Realistic Hue" option
   * "Arctic Icecles Size" page:
     * "Size Options" section:
-      * Choose "x1" option
+      * Select "x1" option
   * "Arctic Optional Plugin" page:
     * "Plugin Option" section:
-      * Choose "Frost Meshes Patch (ESL-Tagged)" option
+      * Select "Frost Meshes Patch (ESL-Tagged)" option
 
 ### [Voltage](https://www.nexusmods.com/skyrimspecialedition/mods/15565)
 
@@ -2075,7 +2075,7 @@
 
 * Download, install and enable ["Skyrim Unbound Reborn" file](https://www.nexusmods.com/skyrimspecialedition/mods/27962?tab=files&file_id=331018&nmm=1). Choose the following options in FOMOD:
   * "SkyUILib (Required)" section:
-    * Choose "Install SkyUILib" option
+    * Select "Install SkyUILib" option
   * "Options" section:
     * Check nothing
   * "Patches" section:
@@ -2120,7 +2120,7 @@
 
 #### Actions
 
-* Download, install and enable ["kryptopyr's Patch Hub Installer" file](https://www.nexusmods.com/skyrimspecialedition/mods/19518?tab=files&file_id=300905&nmm=1). Choose the following options in FOMOD:
+* Download, install and enable ["kryptopyr's Patch Hub Installer" file](https://www.nexusmods.com/skyrimspecialedition/mods/19518?tab=files&file_id=300905&* Chosenmm=1). Choose the following options in FOMOD:
   * "Mods" page:
     * "Mods" section:
       * Check the following options:
@@ -2137,8 +2137,8 @@
         * Cutting Room Floor
   * "Weapons Armor Clothing and Clutter Fixes - Combination Patches" page:
     * "Thaumaturgy" section:
-      * Choose "WACCF and AMB" option
-    * Chose "None" in other sections
+      * Select "WACCF and AMB" option
+    * Select "None" in other sections
   * "Armor and Clothing Extension" page:
     * "Patches" section:
       * Check "Immersive Sounds - Compendium" option
