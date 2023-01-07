@@ -6,7 +6,7 @@
 2. [Basic tools](https://www.nexusmods.com/skyrimspecialedition/articles/1041) (xEdit section only)
 3. [Creation Kit](https://www.nexusmods.com/skyrimspecialedition/articles/1039)
     1. [Converting Mods](https://www.nexusmods.com/skyrimspecialedition/articles/1047) ("HOW TO RESAVE MOD IN CREATION KIT" section only). Necessary for "Skyrim Sizes" mod
-4. [Cathedral Assets Optimizer](https://www.nexusmods.com/skyrimspecialedition/articles/1047). Install and unpack only (don't download the presets). Necessary for "Lanterns Of Skyrim II" mod
+4. [Cathedral Assets Optimizer](https://www.nexusmods.com/skyrimspecialedition/articles/1047) ("ASSETS OPTIMIZER" section only). Install and unpack only, don't download the presets. Necessary for "Lanterns Of Skyrim II" mod
 5. [BethINI](https://www.nexusmods.com/skyrimspecialedition/articles/1040)
 6. [Clean the master files](https://www.nexusmods.com/skyrimspecialedition/articles/1037)
 
