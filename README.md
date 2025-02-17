@@ -29,7 +29,6 @@
 - [Civil War intro scenes run only once](https://www.nexusmods.com/skyrimspecialedition/mods/22028)
 - [No Thieves Guild Grind](https://www.nexusmods.com/skyrimspecialedition/mods/4382)
 - [Unlimited Wood Chopping and Increased Amount](https://www.nexusmods.com/skyrimspecialedition/mods/3336)
-- [Lock Related Loot](https://www.nexusmods.com/skyrimspecialedition/mods/11342)
 - [Skyrim Skill Uncapper for SE and AE](https://www.nexusmods.com/skyrimspecialedition/mods/82558)
 
 ## Additional resources
