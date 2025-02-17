@@ -20,6 +20,7 @@
 - [SkyUI - Ghost Item Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/49106)
 - [Fix Note icon for SkyUI (SKSE64 plugin)](https://www.nexusmods.com/skyrimspecialedition/mods/32561)
 - [Better MessageBox Controls](https://www.nexusmods.com/skyrimspecialedition/mods/1428)
+- [Better Dialogue Controls](https://www.nexusmods.com/skyrimspecialedition/mods/1429)
 - [Yes Im Sure](https://www.nexusmods.com/skyrimspecialedition/mods/24898)
 - [Wider MCM Menu for SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/22825)
 - [moreHUD SE](https://www.nexusmods.com/skyrimspecialedition/mods/12688)
